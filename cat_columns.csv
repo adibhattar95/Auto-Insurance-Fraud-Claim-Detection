@@ -1,0 +1,1001 @@
+policy_state,policy_csl,insured_sex,insured_education_level,insured_occupation,insured_hobbies,insured_relationship,incident_type,collision_type,incident_severity,authorities_contacted,incident_state,incident_city,incident_location,number_of_vehicles_involved,property_damage,bodily_injuries,witnesses,police_report_available,auto_make,auto_model,fraud_reported
+OH,250/500,MALE,MD,craft-repair,sleeping,husband,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Columbus,9935 4th Drive,1,YES,1,2,YES,Saab,92x,Y
+IN,250/500,MALE,MD,machine-op-inspct,reading,other-relative,Vehicle Theft,Rear Collision,Minor Damage,Police,VA,Riverwood,6608 MLK Hwy,1,NO,0,0,NO,Mercedes,E400,Y
+OH,100/300,FEMALE,PhD,sales,board-games,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Columbus,7121 Francis Lane,3,NO,2,3,NO,Dodge,RAM,N
+IL,250/500,FEMALE,PhD,armed-forces,board-games,unmarried,Single Vehicle Collision,Front Collision,Major Damage,Police,OH,Arlington,6956 Maple Drive,1,NO,1,2,NO,Chevrolet,Tahoe,Y
+IL,500/1000,MALE,Associate,sales,board-games,unmarried,Vehicle Theft,Rear Collision,Minor Damage,None,NY,Arlington,3041 3rd Ave,1,NO,0,1,NO,Accura,RSX,N
+OH,250/500,FEMALE,PhD,tech-support,bungie-jumping,unmarried,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Arlington,8973 Washington St,3,NO,0,2,NO,Saab,95,Y
+IN,250/500,MALE,PhD,prof-specialty,board-games,husband,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,5846 Weaver Drive,3,NO,0,0,NO,Nissan,Pathfinder,N
+IL,100/300,MALE,Associate,tech-support,base-jumping,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,Columbus,3525 3rd Hwy,3,NO,2,2,YES,Audi,A5,N
+IL,100/300,FEMALE,PhD,other-service,golf,own-child,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,Arlington,4872 Rock Ridge,1,NO,1,1,YES,Toyota,Camry,N
+IL,100/300,MALE,PhD,priv-house-serv,camping,wife,Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,Hillsdale,3066 Francis Ave,1,NO,2,1,NO,Saab,92x,N
+OH,100/300,FEMALE,Masters,exec-managerial,dancing,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,Northbend,1558 1st Ridge,1,YES,2,2,NO,Ford,F150,N
+OH,100/300,FEMALE,High School,exec-managerial,skydiving,other-relative,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Springfield,5971 5th Hwy,3,YES,1,2,YES,Audi,A3,N
+OH,500/1000,MALE,MD,protective-serv,reading,wife,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Northbend,6655 5th Drive,1,YES,1,0,NO,Saab,95,N
+OH,100/300,FEMALE,MD,armed-forces,bungie-jumping,wife,Parked Car,Front Collision,Minor Damage,None,SC,Springfield,6582 Elm Lane,1,NO,1,1,NO,Toyota,Highlander,N
+OH,250/500,FEMALE,College,machine-op-inspct,board-games,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,Springfield,6851 3rd Drive,1,NO,0,2,YES,Dodge,Neon,Y
+IN,100/300,FEMALE,MD,transport-moving,movies,other-relative,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,Hillsdale,9573 Weaver Ave,4,YES,0,0,NO,Accura,MDX,Y
+OH,500/1000,MALE,College,machine-op-inspct,hiking,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Other,NY,Riverwood,5074 3rd St,3,NO,1,2,YES,Nissan,Maxima,N
+IN,500/1000,MALE,High School,machine-op-inspct,reading,unmarried,Single Vehicle Collision,Side Collision,Total Loss,Police,WV,Northbend,4546 Tree St,1,NO,0,2,YES,Suburu,Legacy,N
+OH,500/1000,FEMALE,MD,craft-repair,yachting,other-relative,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Northbrook,3842 Solo Ridge,1,YES,1,0,NO,Accura,TL,N
+IN,500/1000,FEMALE,High School,handlers-cleaners,camping,own-child,Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,Columbus,8101 3rd Ridge,3,NO,2,0,NO,Nissan,Pathfinder,N
+IN,250/500,MALE,JD,other-service,bungie-jumping,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Columbus,5380 Pine St,3,NO,1,0,NO,Suburu,Impreza,N
+IL,500/1000,FEMALE,Associate,machine-op-inspct,skydiving,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Arlington,8957 Weaver Drive,3,NO,1,2,NO,Accura,RSX,N
+IL,100/300,MALE,High School,prof-specialty,paintball,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Hillsdale,2526 Embaracadero Ave,3,NO,0,0,YES,Suburu,Forrestor,Y
+IN,100/300,MALE,MD,priv-house-serv,chess,own-child,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Northbend,5667 4th Drive,1,NO,2,2,NO,Dodge,RAM,Y
+IN,100/300,MALE,College,craft-repair,kayaking,husband,Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,Riverwood,2502 Apache Hwy,1,NO,1,3,NO,Ford,Escape,N
+OH,100/300,MALE,Masters,sales,polo,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,Arlington,3418 Texas Lane,3,NO,1,3,YES,Ford,Escape,Y
+IN,100/300,MALE,High School,prof-specialty,golf,own-child,Parked Car,Front Collision,Minor Damage,Police,PA,Arlington,2533 Elm St,1,YES,1,3,YES,Toyota,Camry,N
+IN,100/300,MALE,JD,exec-managerial,chess,not-in-family,Vehicle Theft,Rear Collision,Minor Damage,None,VA,Northbrook,3790 Andromedia Hwy,1,YES,2,1,NO,Suburu,Forrestor,Y
+OH,100/300,FEMALE,JD,sales,kayaking,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,Northbend,3220 Rock Drive,1,NO,1,0,YES,Dodge,Neon,N
+IL,500/1000,FEMALE,PhD,machine-op-inspct,basketball,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Northbrook,2100 Francis Drive,1,NO,2,2,NO,Accura,TL,N
+IL,250/500,MALE,Masters,prof-specialty,video-games,husband,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Columbus,4687 5th Drive,4,NO,0,0,NO,Toyota,Corolla,N
+IL,100/300,MALE,JD,craft-repair,reading,husband,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Riverwood,9038 2nd Lane,3,NO,2,2,NO,Ford,F150,Y
+IL,500/1000,FEMALE,Associate,adm-clerical,yachting,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,Arlington,6092 5th Ave,3,YES,2,3,NO,BMW,3 Series,N
+IL,100/300,MALE,High School,farming-fishing,video-games,wife,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Hillsdale,8353 Britain Ridge,3,NO,1,2,NO,Suburu,Impreza,N
+IL,500/1000,MALE,PhD,prof-specialty,yachting,own-child,Single Vehicle Collision,Side Collision,Total Loss,Fire,WV,Hillsdale,3540 Maple St,1,YES,0,1,YES,Audi,A3,N
+OH,100/300,MALE,High School,craft-repair,reading,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Other,WV,Springfield,3104 Sky Drive,1,YES,2,0,YES,Mercedes,C300,Y
+IL,100/300,FEMALE,Masters,protective-serv,camping,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Northbrook,4981 Weaver St,1,NO,1,1,YES,Suburu,Forrestor,Y
+IL,500/1000,FEMALE,JD,priv-house-serv,golf,unmarried,Parked Car,Rear Collision,Minor Damage,None,WV,Arlington,6676 Tree Lane,1,NO,1,1,YES,Suburu,Legacy,N
+IN,500/1000,FEMALE,MD,craft-repair,bungie-jumping,unmarried,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,Hillsdale,3930 Embaracadero St,3,NO,2,0,NO,Jeep,Wrangler,N
+IN,250/500,MALE,JD,tech-support,video-games,wife,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NC,Columbus,3422 Flute St,1,NO,0,3,NO,Nissan,Pathfinder,Y
+IL,100/300,MALE,Associate,tech-support,kayaking,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Columbus,4862 Lincoln Hwy,1,NO,2,2,NO,BMW,M5,N
+IN,250/500,MALE,Associate,transport-moving,chess,unmarried,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,Northbrook,5719 2nd Lane,1,NO,1,1,NO,BMW,X5,Y
+IL,500/1000,FEMALE,College,prof-specialty,hiking,husband,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Springfield,3221 Solo Ridge,3,YES,1,0,NO,Dodge,RAM,N
+OH,250/500,FEMALE,PhD,transport-moving,reading,own-child,Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,Arlington,6660 MLK Drive,1,NO,2,2,NO,Mercedes,E400,N
+IL,100/300,MALE,JD,priv-house-serv,reading,unmarried,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,Springfield,1699 Oak Drive,1,YES,0,2,NO,Toyota,Highlander,N
+IL,250/500,FEMALE,MD,protective-serv,yachting,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,Arlington,4234 Cherokee Lane,3,NO,2,3,NO,Accura,MDX,N
+IN,100/300,FEMALE,Associate,other-service,polo,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NC,Northbend,7476 4th St,3,YES,1,1,NO,Honda,Civic,N
+OH,500/1000,MALE,College,other-service,kayaking,husband,Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,Arlington,8907 Tree Ave,3,NO,2,1,NO,Audi,A3,Y
+IN,500/1000,FEMALE,PhD,protective-serv,dancing,other-relative,Vehicle Theft,Rear Collision,Trivial Damage,Police,NY,Arlington,6619 Flute Ave,1,NO,2,0,YES,Volkswagen,Passat,N
+IL,100/300,FEMALE,Masters,exec-managerial,movies,wife,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,Springfield,6011 Britain St,1,NO,0,0,NO,Mercedes,C300,N
+OH,250/500,MALE,MD,other-service,bungie-jumping,own-child,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Riverwood,5104 Francis Drive,3,NO,0,3,YES,Nissan,Pathfinder,N
+IL,100/300,FEMALE,JD,farming-fishing,polo,husband,Vehicle Theft,Rear Collision,Trivial Damage,None,NY,Arlington,2280 4th Ave,1,NO,1,2,NO,BMW,M5,N
+IN,100/300,MALE,College,armed-forces,basketball,not-in-family,Vehicle Theft,Rear Collision,Minor Damage,None,WV,Northbend,2644 Elm Drive,1,NO,2,1,YES,Toyota,Corolla,N
+IN,100/300,FEMALE,JD,priv-house-serv,movies,husband,Multi-vehicle Collision,Side Collision,Major Damage,Police,NC,Columbus,7466 MLK Ridge,3,YES,1,0,NO,Suburu,Forrestor,N
+OH,250/500,MALE,PhD,machine-op-inspct,movies,not-in-family,Parked Car,Front Collision,Minor Damage,Police,VA,Northbend,5821 2nd St,1,NO,0,1,YES,Ford,F150,N
+OH,100/300,MALE,PhD,craft-repair,skydiving,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Arlington,6723 Best Drive,1,YES,1,2,NO,Chevrolet,Silverado,N
+IN,250/500,FEMALE,PhD,prof-specialty,chess,unmarried,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Columbus,4866 4th Hwy,3,NO,2,3,NO,Honda,CRV,N
+IN,500/1000,FEMALE,Masters,adm-clerical,hiking,own-child,Parked Car,Rear Collision,Minor Damage,None,VA,Riverwood,5418 Britain Ave,1,NO,1,3,NO,Chevrolet,Silverado,N
+IL,250/500,MALE,PhD,other-service,yachting,husband,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Riverwood,4296 Pine Hwy,1,YES,0,1,NO,Saab,93,N
+OH,250/500,FEMALE,MD,adm-clerical,kayaking,own-child,Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,Hillsdale,2299 1st St,3,NO,1,1,NO,Ford,Escape,N
+IN,100/300,MALE,PhD,machine-op-inspct,base-jumping,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,Springfield,6618 Cherokee Drive,3,YES,2,1,NO,Nissan,Maxima,Y
+IL,500/1000,MALE,JD,handlers-cleaners,basketball,husband,Multi-vehicle Collision,Side Collision,Total Loss,Other,OH,Springfield,7459 Flute St,3,NO,0,3,NO,Honda,Accord,N
+IL,500/1000,MALE,High School,armed-forces,bungie-jumping,unmarried,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Hillsdale,3567 4th Drive,1,NO,0,3,YES,BMW,M5,N
+OH,500/1000,MALE,JD,transport-moving,video-games,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,Northbend,2457 Washington Ave,3,YES,2,2,YES,Suburu,Legacy,Y
+OH,250/500,MALE,PhD,sales,chess,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,Riverwood,1269 Flute Drive,3,NO,0,0,NO,Ford,Escape,Y
+IN,100/300,FEMALE,MD,exec-managerial,chess,other-relative,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Arlington,1218 Sky Hwy,3,YES,2,2,NO,Dodge,Neon,Y
+IN,250/500,FEMALE,High School,tech-support,paintball,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,Springfield,9169 Pine Ridge,1,YES,0,1,NO,Audi,A5,Y
+OH,250/500,FEMALE,Associate,adm-clerical,reading,unmarried,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,Hillsdale,8538 Texas Lane,3,NO,1,1,NO,BMW,X6,N
+OH,100/300,MALE,MD,machine-op-inspct,movies,own-child,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,WV,Northbrook,5783 Oak Ave,1,NO,0,3,NO,Audi,A5,N
+IN,500/1000,MALE,MD,other-service,kayaking,own-child,Parked Car,Rear Collision,Minor Damage,None,NC,Riverwood,7721 Washington Ridge,1,NO,0,1,NO,Ford,F150,N
+OH,100/300,FEMALE,Associate,prof-specialty,sleeping,own-child,Multi-vehicle Collision,Side Collision,Major Damage,Other,SC,Hillsdale,8006 Maple Hwy,2,NO,2,3,NO,Audi,A3,Y
+OH,100/300,FEMALE,MD,armed-forces,cross-fit,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,Northbrook,6751 Pine Ridge,1,NO,0,2,NO,Honda,Civic,Y
+OH,250/500,FEMALE,Associate,sales,paintball,husband,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Arlington,2324 Texas Ridge,1,NO,1,2,NO,Chevrolet,Malibu,N
+IN,100/300,FEMALE,College,transport-moving,golf,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Riverwood,7923 Elm Ave,3,NO,2,0,YES,Mercedes,C300,N
+IL,100/300,FEMALE,Associate,sales,yachting,wife,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,VA,Springfield,4755 Best Lane,3,YES,1,0,YES,BMW,X6,N
+OH,100/300,FEMALE,High School,transport-moving,bungie-jumping,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Riverwood,5053 Tree Drive,3,NO,2,0,NO,Ford,Fusion,N
+OH,500/1000,FEMALE,College,handlers-cleaners,golf,husband,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Springfield,2078 3rd Ave,3,NO,1,1,YES,Suburu,Legacy,N
+IN,250/500,MALE,College,transport-moving,dancing,not-in-family,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Northbrook,2804 Best St,3,NO,0,2,NO,Audi,A3,N
+OH,500/1000,FEMALE,JD,other-service,kayaking,wife,Vehicle Theft,Rear Collision,Minor Damage,None,SC,Springfield,7877 Sky Lane,1,YES,2,2,YES,Saab,95,N
+OH,500/1000,FEMALE,PhD,handlers-cleaners,polo,unmarried,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbrook,6530 Weaver Ave,1,NO,1,2,NO,BMW,M5,Y
+OH,250/500,MALE,High School,exec-managerial,paintball,husband,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,Arlington,3087 Oak Hwy,3,NO,1,2,NO,Accura,MDX,N
+OH,500/1000,FEMALE,Masters,exec-managerial,video-games,wife,Vehicle Theft,Rear Collision,Trivial Damage,None,NC,Northbrook,7098 Lincoln Hwy,1,NO,2,1,NO,Accura,TL,N
+IL,250/500,MALE,Masters,other-service,bungie-jumping,other-relative,Vehicle Theft,Rear Collision,Minor Damage,Police,NY,Northbrook,5124 Maple St,1,YES,2,2,NO,Nissan,Maxima,N
+IN,250/500,MALE,High School,exec-managerial,video-games,wife,Vehicle Theft,Rear Collision,Trivial Damage,None,VA,Hillsdale,2333 Maple Lane,1,NO,0,3,YES,Volkswagen,Jetta,N
+IN,500/1000,MALE,Masters,prof-specialty,movies,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Hillsdale,1012 5th Lane,2,NO,2,3,NO,Audi,A3,Y
+OH,100/300,MALE,High School,transport-moving,board-games,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,Northbrook,7477 MLK Drive,3,YES,0,1,NO,Suburu,Legacy,N
+IL,500/1000,FEMALE,Associate,priv-house-serv,yachting,husband,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,Columbus,9489 3rd St,3,NO,2,1,NO,Ford,F150,N
+IL,500/1000,FEMALE,MD,other-service,yachting,own-child,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,Springfield,2087 Apache Ave,1,NO,2,1,YES,BMW,3 Series,N
+IL,500/1000,FEMALE,College,prof-specialty,kayaking,not-in-family,Parked Car,Front Collision,Trivial Damage,None,WV,Arlington,5540 Sky St,1,NO,0,1,YES,Dodge,Neon,N
+IN,100/300,FEMALE,College,exec-managerial,exercise,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Other,SC,Columbus,7238 2nd St,3,YES,2,0,NO,Accura,MDX,Y
+OH,250/500,FEMALE,High School,sales,board-games,own-child,Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,Arlington,8442 Britain Hwy,2,YES,1,1,NO,Saab,93,N
+IL,250/500,FEMALE,Associate,tech-support,exercise,own-child,Single Vehicle Collision,Side Collision,Major Damage,Police,NY,Columbus,1331 Britain Hwy,1,NO,0,3,NO,Honda,Accord,Y
+IL,250/500,MALE,PhD,farming-fishing,yachting,own-child,Parked Car,Rear Collision,Trivial Damage,None,WV,Springfield,5260 Francis Drive,1,NO,0,1,NO,BMW,X5,N
+IN,100/300,FEMALE,MD,exec-managerial,exercise,not-in-family,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,Riverwood,1135 Solo Lane,3,NO,1,1,NO,Ford,Fusion,N
+IL,100/300,FEMALE,High School,machine-op-inspct,hiking,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Northbend,9737 Solo Hwy,3,NO,1,0,NO,Mercedes,ML350,N
+IL,100/300,FEMALE,PhD,armed-forces,exercise,husband,Vehicle Theft,Front Collision,Minor Damage,None,OH,Northbrook,3289 Britain Drive,1,NO,2,0,YES,Toyota,Highlander,N
+IN,500/1000,FEMALE,Associate,protective-serv,hiking,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,Springfield,6550 Andromedia St,1,YES,0,3,NO,Dodge,RAM,Y
+IL,250/500,MALE,Masters,farming-fishing,skydiving,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,SC,Hillsdale,1679 2nd Hwy,4,YES,1,2,YES,Nissan,Pathfinder,Y
+OH,250/500,FEMALE,College,machine-op-inspct,kayaking,wife,Parked Car,Rear Collision,Trivial Damage,None,WV,Columbus,3998 Flute St,1,NO,1,2,YES,Saab,95,N
+IL,100/300,MALE,College,exec-managerial,reading,not-in-family,Vehicle Theft,Rear Collision,Trivial Damage,None,NC,Northbrook,2430 MLK Ave,1,NO,0,0,NO,Audi,A3,N
+IN,100/300,FEMALE,College,protective-serv,yachting,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Northbend,7717 Britain Hwy,1,YES,0,0,NO,Saab,92x,N
+IL,100/300,FEMALE,College,tech-support,exercise,unmarried,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,Northbend,7773 Tree Hwy,1,YES,1,0,YES,Saab,95,N
+IL,250/500,FEMALE,JD,prof-specialty,bungie-jumping,husband,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NC,Northbrook,2199 Texas Drive,3,NO,2,3,NO,Ford,Fusion,N
+OH,100/300,FEMALE,Associate,tech-support,kayaking,other-relative,Parked Car,Front Collision,Minor Damage,Police,WV,Northbend,1028 Sky Lane,1,NO,1,1,NO,Toyota,Highlander,N
+OH,500/1000,MALE,College,other-service,basketball,wife,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Northbend,4154 Lincoln Hwy,3,NO,0,0,NO,Chevrolet,Malibu,N
+IL,100/300,MALE,College,prof-specialty,kayaking,husband,Vehicle Theft,Rear Collision,Minor Damage,None,WV,Columbus,8085 Andromedia St,1,YES,1,3,YES,Mercedes,E400,N
+OH,500/1000,FEMALE,Associate,prof-specialty,basketball,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Police,VA,Northbend,4793 4th Ridge,3,NO,0,2,YES,Saab,95,Y
+IN,500/1000,FEMALE,High School,handlers-cleaners,camping,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,Columbus,7428 Sky Hwy,2,NO,1,0,NO,Volkswagen,Passat,N
+IL,500/1000,FEMALE,PhD,machine-op-inspct,basketball,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,Northbrook,2306 5th Lane,1,NO,0,0,NO,Saab,93,Y
+IN,500/1000,FEMALE,Masters,sales,chess,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,Springfield,3052 Weaver Ridge,3,NO,0,3,YES,Nissan,Ultima,Y
+OH,250/500,FEMALE,College,prof-specialty,video-games,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Riverwood,5211 Weaver Drive,1,NO,1,2,YES,Dodge,RAM,N
+IN,100/300,MALE,PhD,craft-repair,dancing,unmarried,Single Vehicle Collision,Front Collision,Major Damage,Fire,NC,Springfield,7253 MLK St,1,YES,0,0,NO,Ford,F150,Y
+IL,500/1000,MALE,High School,exec-managerial,polo,other-relative,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,Columbus,1454 5th Ridge,3,NO,2,0,NO,BMW,X5,N
+IN,100/300,MALE,MD,protective-serv,camping,own-child,Multi-vehicle Collision,Side Collision,Major Damage,Other,VA,Hillsdale,5622 Best Ridge,2,NO,1,1,NO,Saab,93,N
+OH,250/500,MALE,Associate,armed-forces,reading,other-relative,Vehicle Theft,Rear Collision,Minor Damage,None,VA,Northbrook,4574 Britain Hwy,1,YES,1,1,YES,Ford,F150,N
+IN,100/300,MALE,MD,machine-op-inspct,hiking,other-relative,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,Riverwood,4539 Texas St,3,NO,0,1,NO,Accura,MDX,Y
+IL,500/1000,FEMALE,PhD,machine-op-inspct,bungie-jumping,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Hillsdale,8118 Elm Ridge,1,NO,0,3,NO,Suburu,Legacy,N
+OH,500/1000,MALE,High School,exec-managerial,exercise,unmarried,Multi-vehicle Collision,Side Collision,Major Damage,Police,NY,Northbend,3814 Britain Drive,3,NO,2,2,NO,Toyota,Highlander,Y
+IL,250/500,FEMALE,PhD,transport-moving,yachting,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Hillsdale,4614 MLK Ave,1,NO,1,3,YES,Ford,Fusion,N
+OH,250/500,FEMALE,Associate,adm-clerical,camping,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Arlington,1628 Best Drive,3,NO,0,1,NO,BMW,3 Series,N
+IL,500/1000,MALE,High School,priv-house-serv,board-games,other-relative,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,Hillsdale,8381 Solo Hwy,1,NO,2,0,NO,Volkswagen,Passat,N
+IL,500/1000,FEMALE,MD,other-service,video-games,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Northbrook,2100 MLK St,1,NO,2,1,NO,Ford,Fusion,Y
+IL,250/500,FEMALE,Masters,other-service,skydiving,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,VA,Columbus,5071 Flute Ridge,1,NO,0,1,YES,Nissan,Maxima,Y
+OH,250/500,FEMALE,College,prof-specialty,movies,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Other,NC,Arlington,7551 Britain Lane,4,YES,1,0,NO,Accura,MDX,N
+IL,100/300,FEMALE,JD,prof-specialty,paintball,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Northbend,2275 Best Lane,1,YES,1,1,NO,BMW,X5,N
+IN,250/500,MALE,JD,craft-repair,dancing,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Hillsdale,1598 3rd Drive,3,NO,2,3,YES,Ford,Escape,N
+IL,100/300,MALE,MD,protective-serv,video-games,unmarried,Single Vehicle Collision,Side Collision,Total Loss,Other,WV,Columbus,7740 MLK St,1,NO,0,0,NO,Suburu,Impreza,N
+IN,500/1000,FEMALE,High School,tech-support,exercise,own-child,Parked Car,Rear Collision,Minor Damage,Police,PA,Northbrook,1240 Tree Lane,1,NO,2,0,NO,BMW,M5,N
+OH,100/300,MALE,College,farming-fishing,basketball,wife,Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,Northbend,8983 Francis Ridge,1,YES,0,3,YES,BMW,X5,Y
+IL,250/500,FEMALE,Masters,sales,sleeping,husband,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Northbend,7756 Solo Drive,3,NO,1,2,NO,Saab,92x,Y
+IN,250/500,MALE,JD,machine-op-inspct,camping,wife,Multi-vehicle Collision,Front Collision,Minor Damage,Other,NY,Arlington,9034 Weaver Ridge,3,YES,1,2,NO,Ford,Escape,N
+IN,250/500,MALE,Masters,adm-clerical,paintball,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,Columbus,1126 Texas Hwy,3,NO,2,2,NO,Dodge,RAM,N
+OH,100/300,FEMALE,Masters,tech-support,exercise,unmarried,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,Arlington,2808 Elm St,3,NO,0,1,NO,Nissan,Pathfinder,N
+IL,500/1000,FEMALE,High School,machine-op-inspct,skydiving,wife,Single Vehicle Collision,Side Collision,Total Loss,Police,WV,Northbend,5061 Francis Ave,1,NO,2,1,NO,Jeep,Wrangler,N
+OH,250/500,MALE,PhD,exec-managerial,basketball,unmarried,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbend,4965 MLK Drive,1,NO,1,1,NO,BMW,3 Series,N
+IN,250/500,FEMALE,College,exec-managerial,yachting,other-relative,Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,Springfield,8668 Flute St,1,NO,1,2,NO,Volkswagen,Passat,Y
+IL,100/300,FEMALE,High School,sales,exercise,other-relative,Vehicle Theft,Rear Collision,Minor Damage,Police,VA,Riverwood,2577 Washington Drive,1,NO,0,0,NO,Ford,Escape,N
+IL,250/500,FEMALE,PhD,tech-support,golf,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Springfield,7709 Rock Lane,3,NO,0,3,NO,BMW,X5,N
+IL,500/1000,FEMALE,High School,prof-specialty,basketball,wife,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,Springfield,9358 Texas Ridge,3,NO,1,2,YES,Toyota,Camry,N
+IL,250/500,FEMALE,MD,other-service,hiking,not-in-family,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,Springfield,8080 Oak Lane,3,NO,0,2,YES,BMW,X5,N
+OH,100/300,MALE,Masters,machine-op-inspct,camping,other-relative,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Northbend,6408 Weaver Ridge,1,YES,0,1,NO,Mercedes,E400,N
+IL,500/1000,MALE,Masters,transport-moving,video-games,wife,Vehicle Theft,Rear Collision,Trivial Damage,None,SC,Northbrook,5532 Weaver Ridge,1,NO,2,3,NO,Suburu,Forrestor,N
+IN,250/500,MALE,PhD,machine-op-inspct,video-games,own-child,Parked Car,Front Collision,Minor Damage,None,SC,Northbend,9101 2nd Hwy,1,NO,2,1,YES,Chevrolet,Silverado,N
+IN,250/500,MALE,MD,exec-managerial,yachting,other-relative,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Springfield,8576 Andromedia St,1,NO,2,3,NO,Accura,MDX,Y
+IL,500/1000,FEMALE,JD,farming-fishing,video-games,wife,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,Springfield,6315 2nd Lane,3,NO,0,3,YES,Accura,MDX,N
+OH,100/300,FEMALE,Associate,exec-managerial,cross-fit,wife,Single Vehicle Collision,Front Collision,Major Damage,Police,NC,Northbrook,1536 Flute Drive,1,YES,2,1,NO,Accura,TL,Y
+IL,500/1000,MALE,Masters,tech-support,polo,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NC,Northbend,4672 MLK St,3,NO,2,0,NO,BMW,X6,Y
+OH,100/300,FEMALE,MD,other-service,golf,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,2204 Washington Lane,1,NO,1,1,NO,Nissan,Pathfinder,N
+IL,100/300,MALE,PhD,adm-clerical,reading,not-in-family,Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,Springfield,9484 Pine Drive,1,NO,2,3,NO,Volkswagen,Jetta,Y
+OH,250/500,FEMALE,JD,craft-repair,skydiving,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Other,SC,Springfield,5431 3rd Ridge,1,NO,1,0,YES,Suburu,Impreza,Y
+OH,100/300,FEMALE,PhD,farming-fishing,base-jumping,wife,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Columbus,7121 Britain Drive,1,NO,1,0,NO,Audi,A3,N
+IL,100/300,MALE,Masters,priv-house-serv,polo,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,Hillsdale,8586 1st Ridge,3,YES,2,1,NO,Mercedes,C300,N
+IN,250/500,MALE,High School,exec-managerial,kayaking,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,Riverwood,7582 Pine Drive,3,YES,1,3,YES,Volkswagen,Jetta,Y
+OH,100/300,FEMALE,Masters,craft-repair,paintball,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,Columbus,1388 Embaracadero Hwy,3,NO,2,3,NO,Suburu,Forrestor,N
+OH,100/300,FEMALE,Masters,other-service,reading,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Northbrook,5621 4th Ave,3,NO,1,3,NO,Saab,93,Y
+OH,100/300,MALE,Associate,sales,bungie-jumping,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Police,NY,Riverwood,8150 Washington Ridge,1,YES,2,3,NO,Audi,A5,Y
+OH,100/300,MALE,JD,exec-managerial,exercise,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Columbus,4268 2nd Ave,3,NO,2,1,YES,Jeep,Wrangler,N
+IN,250/500,FEMALE,JD,prof-specialty,hiking,other-relative,Parked Car,Rear Collision,Minor Damage,None,WV,Northbend,6375 2nd Lane,1,NO,2,3,NO,Saab,92x,N
+IN,100/300,MALE,Masters,machine-op-inspct,movies,not-in-family,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Springfield,3770 Flute Drive,3,NO,2,0,NO,Suburu,Legacy,N
+OH,100/300,FEMALE,JD,transport-moving,video-games,other-relative,Vehicle Theft,Rear Collision,Minor Damage,Police,NY,Columbus,1562 Britain St,1,NO,2,0,NO,Honda,Accord,N
+IN,500/1000,FEMALE,Associate,priv-house-serv,reading,unmarried,Parked Car,Rear Collision,Minor Damage,Police,VA,Springfield,1681 Cherokee Hwy,1,YES,2,3,NO,Mercedes,E400,N
+IN,500/1000,FEMALE,MD,farming-fishing,dancing,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Northbrook,7523 Oak Lane,1,NO,2,0,NO,Chevrolet,Silverado,N
+OH,500/1000,FEMALE,MD,exec-managerial,polo,unmarried,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,Hillsdale,1815 Cherokee Drive,2,NO,2,1,YES,Volkswagen,Passat,N
+OH,500/1000,FEMALE,Masters,prof-specialty,sleeping,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Arlington,9316 Pine Ave,1,YES,2,0,NO,Dodge,Neon,Y
+IL,250/500,FEMALE,Masters,prof-specialty,polo,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,PA,Columbus,2733 Texas Drive,3,NO,2,0,YES,Mercedes,E400,N
+IN,500/1000,FEMALE,PhD,armed-forces,bungie-jumping,not-in-family,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Columbus,7684 Francis Ridge,3,NO,2,2,YES,Suburu,Legacy,N
+OH,250/500,FEMALE,Associate,craft-repair,board-games,unmarried,Single Vehicle Collision,Rear Collision,Major Damage,Fire,WV,Riverwood,8991 Embaracadero Ave,1,NO,2,1,YES,Audi,A5,Y
+IL,500/1000,MALE,High School,farming-fishing,yachting,unmarried,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Northbend,4905 Francis Ave,3,NO,0,0,NO,Saab,95,N
+IL,250/500,FEMALE,Masters,machine-op-inspct,bungie-jumping,husband,Parked Car,Rear Collision,Trivial Damage,Police,SC,Hillsdale,7783 Lincoln Hwy,1,NO,0,1,NO,Toyota,Highlander,N
+IN,250/500,MALE,High School,other-service,movies,not-in-family,Parked Car,Rear Collision,Minor Damage,None,NY,Hillsdale,8749 Tree St,1,NO,1,0,NO,Jeep,Wrangler,N
+IL,250/500,MALE,Associate,armed-forces,hiking,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Arlington,4985 Sky Lane,3,YES,0,0,NO,Jeep,Wrangler,N
+OH,250/500,MALE,High School,machine-op-inspct,hiking,husband,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,Riverwood,7534 MLK Hwy,1,NO,0,1,YES,Volkswagen,Jetta,Y
+IL,250/500,MALE,College,protective-serv,board-games,wife,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,Arlington,8689 Maple Hwy,3,YES,1,0,YES,Dodge,Neon,N
+IN,250/500,FEMALE,MD,transport-moving,kayaking,wife,Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,Hillsdale,9153 3rd Hwy,3,NO,0,2,YES,Volkswagen,Jetta,N
+IL,100/300,FEMALE,PhD,farming-fishing,kayaking,unmarried,Vehicle Theft,Rear Collision,Trivial Damage,None,WV,Riverwood,5904 1st Drive,1,NO,0,1,NO,Ford,Fusion,N
+IN,100/300,MALE,MD,tech-support,board-games,wife,Single Vehicle Collision,Rear Collision,Minor Damage,Other,PA,Hillsdale,4519 Embaracadero St,1,NO,1,0,YES,Jeep,Wrangler,N
+IN,100/300,MALE,Masters,protective-serv,dancing,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,OH,Hillsdale,9706 MLK Lane,1,NO,1,1,YES,Honda,Civic,N
+IL,250/500,FEMALE,PhD,prof-specialty,kayaking,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Columbus,6012 Texas Hwy,1,YES,0,1,NO,Volkswagen,Jetta,N
+IN,500/1000,FEMALE,Masters,armed-forces,skydiving,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,Northbend,4098 Weaver Ridge,1,YES,0,1,NO,Chevrolet,Malibu,N
+IL,100/300,MALE,MD,tech-support,exercise,wife,Vehicle Theft,Rear Collision,Trivial Damage,None,NY,Hillsdale,6193 1st Hwy,1,NO,2,1,NO,Chevrolet,Silverado,N
+OH,500/1000,MALE,Associate,handlers-cleaners,basketball,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,Riverwood,4053 Sky Lane,3,NO,2,0,YES,Audi,A3,N
+IL,500/1000,FEMALE,Masters,adm-clerical,reading,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Springfield,8964 Francis St,1,YES,2,3,NO,Dodge,Neon,N
+IN,250/500,FEMALE,Masters,tech-support,exercise,husband,Single Vehicle Collision,Side Collision,Total Loss,Police,VA,Springfield,9748 Sky Drive,1,YES,2,3,NO,Accura,RSX,N
+OH,100/300,MALE,JD,tech-support,cross-fit,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Northbend,2293 Washington Ave,1,NO,1,1,YES,Chevrolet,Malibu,Y
+OH,100/300,MALE,Masters,craft-repair,sleeping,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Northbend,3656 Solo Ave,1,NO,0,2,NO,Mercedes,C300,N
+OH,500/1000,MALE,JD,tech-support,cross-fit,husband,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Northbend,8579 Apache Drive,1,YES,2,3,NO,Mercedes,C300,Y
+IL,100/300,FEMALE,JD,tech-support,bungie-jumping,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,Riverwood,2003 Maple Hwy,3,NO,1,1,NO,Audi,A3,N
+IN,250/500,FEMALE,JD,protective-serv,exercise,other-relative,Vehicle Theft,Front Collision,Minor Damage,Police,NY,Northbrook,5445 Tree Hwy,1,YES,1,3,YES,Chevrolet,Tahoe,N
+IN,100/300,FEMALE,High School,tech-support,hiking,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Other,WV,Hillsdale,9730 2nd Hwy,3,NO,1,0,NO,Honda,Civic,Y
+OH,500/1000,FEMALE,High School,adm-clerical,polo,other-relative,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,VA,Columbus,7819 Oak St,1,NO,0,2,YES,Honda,CRV,N
+OH,250/500,MALE,Associate,tech-support,movies,own-child,Parked Car,Rear Collision,Minor Damage,None,SC,Riverwood,1845 Best St,1,YES,0,1,YES,Volkswagen,Passat,N
+IN,250/500,MALE,JD,farming-fishing,hiking,unmarried,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Springfield,2500 Tree St,1,NO,1,2,NO,Nissan,Maxima,N
+OH,100/300,FEMALE,MD,handlers-cleaners,basketball,unmarried,Single Vehicle Collision,Front Collision,Total Loss,Police,SC,Arlington,6955 Pine Drive,1,NO,0,3,NO,Mercedes,C300,N
+OH,500/1000,MALE,High School,other-service,hiking,husband,Vehicle Theft,Rear Collision,Minor Damage,Police,VA,Hillsdale,6165 Rock Ridge,1,YES,1,1,YES,Nissan,Maxima,N
+IL,250/500,MALE,MD,farming-fishing,basketball,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Other,VA,Northbrook,3653 Elm Drive,3,NO,0,1,YES,Chevrolet,Tahoe,N
+IL,500/1000,MALE,High School,handlers-cleaners,bungie-jumping,husband,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NC,Columbus,5812 3rd Hwy,2,YES,2,3,NO,Saab,95,N
+IN,250/500,MALE,MD,armed-forces,skydiving,own-child,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Springfield,4939 Best St,1,NO,1,1,NO,Jeep,Grand Cherokee,Y
+OH,250/500,FEMALE,MD,adm-clerical,camping,not-in-family,Parked Car,Rear Collision,Trivial Damage,None,WV,Arlington,4964 Elm Lane,1,YES,0,3,NO,Accura,MDX,N
+IL,250/500,MALE,Masters,armed-forces,bungie-jumping,own-child,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Riverwood,9588 Solo St,1,YES,2,1,NO,Honda,Civic,N
+OH,100/300,FEMALE,College,sales,paintball,other-relative,Vehicle Theft,Rear Collision,Minor Damage,Police,SC,Arlington,8718 Apache Lane,1,NO,1,1,NO,BMW,3 Series,N
+IL,250/500,MALE,PhD,craft-repair,golf,not-in-family,Vehicle Theft,Rear Collision,Trivial Damage,Police,NY,Hillsdale,3590 Best Hwy,1,NO,2,1,YES,Suburu,Impreza,N
+OH,250/500,MALE,PhD,transport-moving,base-jumping,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,WV,Hillsdale,6149 Best Ridge,1,NO,2,0,YES,Suburu,Legacy,N
+IN,250/500,FEMALE,High School,protective-serv,board-games,unmarried,Parked Car,Front Collision,Trivial Damage,Police,NY,Springfield,4116 Embaracadero Lane,1,NO,0,2,NO,Chevrolet,Malibu,N
+IL,100/300,MALE,PhD,machine-op-inspct,paintball,wife,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Riverwood,3486 Flute Ave,3,YES,0,3,NO,Chevrolet,Tahoe,N
+IL,250/500,MALE,JD,sales,kayaking,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Northbend,5994 5th Ave,3,NO,1,2,NO,Saab,93,N
+OH,500/1000,FEMALE,Masters,tech-support,exercise,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Springfield,9138 3rd St,1,NO,2,1,NO,BMW,M5,N
+OH,100/300,FEMALE,College,sales,chess,other-relative,Single Vehicle Collision,Rear Collision,Total Loss,Fire,SC,Columbus,3743 Andromedia Ridge,1,NO,1,0,NO,Ford,F150,Y
+OH,500/1000,MALE,Masters,handlers-cleaners,golf,husband,Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,Springfield,7644 Tree Ridge,3,NO,0,3,YES,Audi,A3,N
+IN,250/500,MALE,JD,adm-clerical,hiking,husband,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Riverwood,3167 2nd St,4,NO,2,3,NO,Mercedes,C300,N
+IN,250/500,MALE,Associate,sales,reading,not-in-family,Parked Car,Front Collision,Trivial Damage,Police,WV,Columbus,3327 Lincoln Drive,1,NO,0,1,NO,Suburu,Legacy,N
+OH,250/500,FEMALE,High School,handlers-cleaners,movies,other-relative,Vehicle Theft,Rear Collision,Minor Damage,Police,NC,Hillsdale,8621 Best Ridge,1,NO,2,0,NO,Toyota,Corolla,N
+IN,500/1000,MALE,High School,priv-house-serv,skydiving,not-in-family,Vehicle Theft,Rear Collision,Trivial Damage,None,OH,Columbus,3878 Tree Lane,1,NO,1,2,NO,Dodge,RAM,N
+OH,100/300,MALE,High School,sales,yachting,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Riverwood,9760 Solo Lane,3,YES,2,3,YES,Volkswagen,Passat,N
+OH,500/1000,FEMALE,MD,prof-specialty,reading,wife,Multi-vehicle Collision,Side Collision,Major Damage,Other,SC,Springfield,9138 1st St,3,NO,1,0,NO,Dodge,Neon,Y
+IN,100/300,FEMALE,JD,exec-managerial,cross-fit,wife,Single Vehicle Collision,Side Collision,Total Loss,Other,NC,Columbus,3414 Elm Ave,1,YES,1,3,NO,Suburu,Legacy,Y
+OH,100/300,MALE,PhD,craft-repair,bungie-jumping,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,Springfield,3172 Tree Ridge,3,NO,1,2,YES,Audi,A3,Y
+IL,100/300,FEMALE,High School,machine-op-inspct,base-jumping,unmarried,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Columbus,6104 Oak Ave,1,NO,2,2,NO,Audi,A5,N
+OH,250/500,MALE,Masters,transport-moving,yachting,not-in-family,Vehicle Theft,Front Collision,Trivial Damage,None,NC,Springfield,9742 5th Ridge,1,NO,2,1,NO,BMW,X5,N
+IL,500/1000,FEMALE,MD,prof-specialty,exercise,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,Hillsdale,8782 3rd St,1,NO,2,3,NO,Saab,92x,Y
+OH,100/300,MALE,College,priv-house-serv,camping,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,Northbrook,9798 Sky Ridge,3,NO,1,0,NO,BMW,X6,N
+OH,250/500,MALE,College,farming-fishing,base-jumping,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Hillsdale,5483 Francis Drive,1,YES,1,2,YES,Honda,Civic,Y
+OH,250/500,FEMALE,College,other-service,exercise,own-child,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Springfield,2005 Texas Hwy,1,NO,2,2,NO,Jeep,Grand Cherokee,N
+IL,500/1000,FEMALE,High School,sales,yachting,husband,Single Vehicle Collision,Side Collision,Total Loss,Fire,NY,Hillsdale,6634 Texas Ridge,1,YES,0,0,NO,Chevrolet,Silverado,N
+IL,250/500,MALE,Associate,sales,board-games,wife,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,Columbus,8655 Cherokee Lane,3,NO,1,1,NO,Mercedes,E400,N
+IN,100/300,FEMALE,Associate,tech-support,kayaking,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,Arlington,4955 Lincoln Ridge,3,NO,0,3,YES,Accura,MDX,N
+IN,500/1000,MALE,Masters,exec-managerial,basketball,unmarried,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,Springfield,7705 Best Ridge,1,YES,0,1,YES,Jeep,Wrangler,N
+IL,250/500,FEMALE,High School,other-service,paintball,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Riverwood,5838 Pine Lane,2,YES,2,0,NO,Accura,RSX,N
+IL,500/1000,FEMALE,Associate,prof-specialty,bungie-jumping,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Arlington,7331 Sky Hwy,1,NO,0,2,NO,Toyota,Corolla,Y
+IL,100/300,FEMALE,MD,craft-repair,kayaking,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Fire,WV,Hillsdale,5640 Embaracadero Lane,3,YES,1,3,NO,Saab,93,N
+IL,250/500,FEMALE,MD,farming-fishing,dancing,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,Columbus,9610 Cherokee St,1,NO,0,3,NO,Accura,MDX,N
+OH,100/300,FEMALE,High School,machine-op-inspct,base-jumping,wife,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Columbus,3550 Washington Ave,1,NO,0,2,YES,Honda,CRV,N
+OH,500/1000,MALE,JD,prof-specialty,dancing,own-child,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Arlington,5277 Texas Lane,1,NO,2,3,YES,Volkswagen,Passat,N
+IN,250/500,FEMALE,Masters,machine-op-inspct,exercise,husband,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Springfield,3654 Cherokee Ave,4,NO,2,1,YES,Toyota,Highlander,N
+IL,100/300,MALE,MD,handlers-cleaners,paintball,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Police,OH,Hillsdale,7380 5th Hwy,3,NO,2,0,NO,Nissan,Pathfinder,N
+IN,100/300,MALE,JD,farming-fishing,polo,other-relative,Multi-vehicle Collision,Front Collision,Major Damage,Other,PA,Riverwood,2539 Embaracadero Ridge,3,NO,0,2,YES,Audi,A5,Y
+IN,100/300,MALE,Masters,transport-moving,kayaking,unmarried,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,Riverwood,4693 Lincoln Hwy,3,NO,1,0,NO,Nissan,Ultima,N
+IN,100/300,MALE,JD,craft-repair,golf,unmarried,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Arlington,2376 Sky Ridge,1,YES,1,1,NO,Dodge,RAM,N
+IL,500/1000,MALE,MD,sales,cross-fit,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Columbus,1273 Rock Lane,3,NO,2,3,NO,Audi,A3,Y
+OH,500/1000,FEMALE,Associate,farming-fishing,reading,own-child,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Springfield,8281 Lincoln Lane,1,NO,1,1,NO,Saab,92x,N
+IN,500/1000,FEMALE,Masters,farming-fishing,dancing,own-child,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,6429 4th Hwy,1,YES,1,1,NO,Suburu,Legacy,N
+IL,250/500,FEMALE,MD,armed-forces,cross-fit,own-child,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Riverwood,2201 4th Lane,1,NO,0,0,YES,Saab,92x,N
+IL,100/300,FEMALE,College,adm-clerical,skydiving,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Other,VA,Columbus,5506 Best St,1,YES,2,0,NO,Chevrolet,Silverado,Y
+OH,500/1000,FEMALE,JD,exec-managerial,camping,other-relative,Parked Car,Front Collision,Trivial Damage,None,SC,Hillsdale,8404 Embaracadero St,1,NO,2,1,YES,Nissan,Ultima,N
+IL,100/300,FEMALE,College,tech-support,paintball,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Riverwood,2117 Lincoln Hwy,3,NO,2,2,NO,Dodge,RAM,N
+OH,250/500,MALE,Associate,armed-forces,board-games,other-relative,Vehicle Theft,Front Collision,Trivial Damage,None,PA,Springfield,6359 MLK Ridge,1,YES,1,2,NO,Mercedes,E400,N
+IN,500/1000,FEMALE,Associate,tech-support,golf,other-relative,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,Arlington,9751 Sky Ridge,1,YES,0,3,YES,Dodge,RAM,Y
+IL,250/500,FEMALE,JD,machine-op-inspct,golf,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,Northbend,9020 Elm Ave,1,YES,0,2,YES,Saab,92x,N
+OH,100/300,FEMALE,JD,other-service,chess,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Columbus,1830 Sky St,3,NO,0,1,NO,Chevrolet,Tahoe,Y
+IL,250/500,MALE,Masters,machine-op-inspct,golf,other-relative,Parked Car,Rear Collision,Minor Damage,None,SC,Hillsdale,6067 Weaver Ridge,1,YES,0,3,NO,Mercedes,E400,N
+IN,250/500,FEMALE,High School,armed-forces,paintball,other-relative,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,Arlington,1840 Embaracadero Ave,1,NO,1,3,YES,Chevrolet,Malibu,N
+OH,250/500,FEMALE,Associate,transport-moving,yachting,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Springfield,4058 Tree Drive,2,YES,0,1,NO,Suburu,Forrestor,Y
+OH,250/500,MALE,MD,sales,yachting,other-relative,Multi-vehicle Collision,Side Collision,Major Damage,Police,SC,Northbend,4983 MLK Ridge,3,NO,1,2,NO,Ford,F150,Y
+OH,100/300,FEMALE,High School,transport-moving,bungie-jumping,husband,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Springfield,9744 Texas Drive,1,YES,1,1,NO,Saab,95,N
+OH,250/500,MALE,PhD,transport-moving,movies,wife,Single Vehicle Collision,Side Collision,Major Damage,Fire,OH,Riverwood,8821 Elm St,1,NO,2,3,NO,Nissan,Maxima,Y
+OH,500/1000,FEMALE,JD,tech-support,base-jumping,wife,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbrook,2886 Tree Ridge,3,NO,2,2,NO,Chevrolet,Tahoe,Y
+IL,100/300,FEMALE,High School,farming-fishing,golf,own-child,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Hillsdale,5236 Weaver Drive,3,NO,0,1,NO,Dodge,RAM,N
+IL,250/500,MALE,Associate,craft-repair,base-jumping,other-relative,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,Arlington,5862 Apache Ridge,3,YES,1,0,YES,Accura,TL,N
+OH,500/1000,MALE,Associate,machine-op-inspct,cross-fit,other-relative,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Columbus,7859 4th Ridge,1,YES,0,1,NO,Mercedes,C300,Y
+IL,100/300,FEMALE,MD,sales,base-jumping,husband,Vehicle Theft,Rear Collision,Trivial Damage,Police,NY,Springfield,6259 Weaver St,1,YES,1,3,YES,Toyota,Camry,N
+OH,250/500,FEMALE,PhD,exec-managerial,dancing,unmarried,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbend,9980 Lincoln Ave,3,NO,0,2,YES,Suburu,Impreza,Y
+OH,250/500,FEMALE,Masters,priv-house-serv,skydiving,other-relative,Parked Car,Rear Collision,Trivial Damage,None,SC,Riverwood,7828 Cherokee Ave,1,NO,0,1,NO,Dodge,Neon,N
+IL,100/300,MALE,PhD,other-service,reading,husband,Single Vehicle Collision,Front Collision,Major Damage,Police,NC,Arlington,5812 Oak St,1,NO,2,0,NO,Ford,Fusion,Y
+OH,250/500,MALE,College,machine-op-inspct,golf,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,Arlington,2318 Washington Hwy,3,NO,0,1,NO,Volkswagen,Passat,Y
+IN,500/1000,MALE,Masters,armed-forces,base-jumping,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Hillsdale,8809 Flute St,3,NO,1,1,NO,Dodge,RAM,N
+IL,500/1000,FEMALE,MD,protective-serv,kayaking,wife,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbend,3184 Oak Ave,1,NO,1,0,YES,Volkswagen,Passat,N
+IL,250/500,FEMALE,High School,craft-repair,movies,own-child,Vehicle Theft,Rear Collision,Trivial Damage,Police,NC,Hillsdale,6493 Lincoln Lane,1,NO,1,0,NO,Audi,A5,N
+IL,250/500,MALE,JD,machine-op-inspct,hiking,wife,Multi-vehicle Collision,Side Collision,Major Damage,Fire,PA,Columbus,7162 Maple Ave,3,NO,2,2,NO,Toyota,Camry,Y
+IN,500/1000,FEMALE,JD,handlers-cleaners,video-games,unmarried,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Springfield,5455 Tree Ridge,3,NO,0,0,NO,BMW,X5,N
+OH,100/300,MALE,Associate,protective-serv,reading,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,PA,Springfield,5778 Pine Ridge,3,YES,0,3,NO,Nissan,Pathfinder,N
+IN,100/300,FEMALE,Associate,machine-op-inspct,camping,wife,Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,Hillsdale,3797 Solo Lane,3,YES,2,3,YES,Chevrolet,Tahoe,N
+OH,250/500,MALE,College,handlers-cleaners,camping,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,Arlington,9373 Pine Hwy,3,NO,2,0,YES,Toyota,Highlander,N
+IL,100/300,FEMALE,Associate,other-service,camping,wife,Parked Car,Rear Collision,Minor Damage,None,NY,Hillsdale,1365 Francis Ave,1,NO,0,0,NO,Audi,A3,N
+IL,100/300,MALE,MD,craft-repair,paintball,other-relative,Multi-vehicle Collision,Front Collision,Major Damage,Police,WV,Arlington,9239 Washington Ridge,4,YES,2,0,NO,Jeep,Grand Cherokee,Y
+OH,100/300,FEMALE,JD,armed-forces,skydiving,wife,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Arlington,3416 Washington Drive,3,NO,1,0,NO,Nissan,Ultima,N
+IL,500/1000,FEMALE,Masters,other-service,skydiving,other-relative,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Columbus,1923 2nd Hwy,3,NO,0,2,NO,Ford,Fusion,N
+IN,500/1000,FEMALE,Associate,machine-op-inspct,board-games,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Riverwood,6451 1st Hwy,3,NO,0,1,NO,Jeep,Wrangler,N
+IN,250/500,MALE,Associate,tech-support,paintball,husband,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Columbus,1267 Francis Hwy,3,YES,1,2,NO,Saab,93,N
+OH,100/300,MALE,PhD,prof-specialty,cross-fit,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Other,PA,Northbrook,4158 Washington Lane,1,NO,1,0,NO,BMW,M5,Y
+IL,100/300,FEMALE,JD,armed-forces,exercise,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Northbend,3796 Cherokee Drive,3,NO,0,1,YES,Nissan,Pathfinder,Y
+IL,100/300,FEMALE,College,other-service,sleeping,own-child,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbend,7434 Oak Hwy,3,YES,2,1,YES,BMW,X6,N
+OH,250/500,FEMALE,JD,craft-repair,movies,unmarried,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,PA,Columbus,5178 Weaver Hwy,3,NO,1,3,NO,Nissan,Ultima,N
+IN,100/300,FEMALE,Associate,craft-repair,cross-fit,wife,Vehicle Theft,Front Collision,Trivial Damage,Police,NY,Arlington,8477 Francis Hwy,1,NO,2,1,NO,Chevrolet,Malibu,Y
+OH,250/500,FEMALE,PhD,transport-moving,video-games,not-in-family,Vehicle Theft,Rear Collision,Minor Damage,Police,SC,Northbrook,7693 Britain Lane,1,YES,0,0,YES,Jeep,Grand Cherokee,N
+OH,250/500,MALE,PhD,tech-support,sleeping,other-relative,Single Vehicle Collision,Rear Collision,Major Damage,Police,WV,Riverwood,3658 Rock Drive,1,NO,0,2,NO,BMW,X5,Y
+OH,250/500,FEMALE,MD,priv-house-serv,basketball,own-child,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Riverwood,2617 Andromedia Drive,3,NO,1,3,YES,Ford,Escape,N
+IL,500/1000,FEMALE,High School,adm-clerical,kayaking,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Other,VA,Northbrook,9279 Oak Hwy,1,YES,0,1,NO,Accura,MDX,N
+IN,100/300,MALE,JD,priv-house-serv,hiking,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Hillsdale,3439 Andromedia Hwy,3,YES,2,0,NO,Suburu,Forrestor,N
+OH,100/300,FEMALE,Associate,transport-moving,golf,not-in-family,Vehicle Theft,Rear Collision,Trivial Damage,None,SC,Riverwood,5901 Elm Drive,1,NO,1,0,NO,Toyota,Camry,N
+IN,250/500,FEMALE,JD,handlers-cleaners,movies,husband,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Northbrook,3982 Washington Hwy,1,YES,1,2,YES,Ford,Escape,Y
+IN,500/1000,FEMALE,College,sales,hiking,own-child,Parked Car,Rear Collision,Minor Damage,Police,VA,Northbrook,3376 5th Drive,1,NO,0,2,NO,BMW,3 Series,N
+OH,100/300,MALE,Associate,machine-op-inspct,kayaking,wife,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,Arlington,3936 Tree Drive,1,YES,0,1,NO,Chevrolet,Malibu,N
+IL,250/500,MALE,College,protective-serv,golf,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,Springfield,6605 Tree Ave,3,NO,0,2,NO,BMW,X5,N
+IL,250/500,FEMALE,High School,handlers-cleaners,polo,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,Northbend,3102 Apache St,3,YES,1,0,NO,BMW,X6,Y
+IL,500/1000,MALE,High School,sales,dancing,wife,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,Columbus,7756 Pine Hwy,1,YES,2,2,NO,Mercedes,ML350,N
+IN,250/500,MALE,High School,exec-managerial,golf,unmarried,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NC,Columbus,7142 5th Lane,4,NO,1,2,YES,Honda,Civic,Y
+IN,250/500,FEMALE,Associate,prof-specialty,basketball,wife,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,Northbrook,2914 Oak Drive,1,NO,1,2,NO,Mercedes,ML350,N
+IL,250/500,MALE,College,protective-serv,reading,wife,Multi-vehicle Collision,Front Collision,Minor Damage,Police,PA,Hillsdale,6522 Apache Drive,3,YES,2,2,YES,Audi,A3,N
+IL,100/300,FEMALE,College,handlers-cleaners,dancing,wife,Parked Car,Rear Collision,Trivial Damage,Police,SC,Northbend,5279 Pine Ridge,1,NO,2,3,NO,Dodge,RAM,N
+IL,500/1000,FEMALE,MD,adm-clerical,golf,not-in-family,Parked Car,Rear Collision,Minor Damage,None,WV,Northbend,8078 Britain Hwy,1,YES,1,0,NO,Nissan,Pathfinder,N
+IN,250/500,MALE,High School,transport-moving,video-games,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Other,PA,Northbend,1133 Apache St,2,NO,1,0,NO,Accura,TL,N
+IL,100/300,FEMALE,Masters,farming-fishing,base-jumping,not-in-family,Vehicle Theft,Front Collision,Trivial Damage,Police,SC,Riverwood,2873 Flute Ave,1,NO,1,3,NO,Audi,A5,N
+IL,100/300,MALE,Associate,handlers-cleaners,yachting,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,Riverwood,8509 Apache St,3,YES,1,2,NO,Honda,CRV,N
+IL,100/300,MALE,College,sales,base-jumping,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,Arlington,8245 4th Hwy,3,YES,0,2,NO,Jeep,Wrangler,N
+IL,250/500,MALE,JD,transport-moving,camping,wife,Parked Car,Rear Collision,Trivial Damage,Police,NY,Columbus,3094 Best Lane,1,NO,0,2,NO,Ford,F150,N
+IN,250/500,MALE,High School,priv-house-serv,bungie-jumping,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Springfield,8188 Tree Ave,3,YES,0,0,NO,Accura,TL,N
+OH,100/300,FEMALE,JD,handlers-cleaners,base-jumping,wife,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Arlington,5224 5th Lane,1,NO,2,1,YES,Honda,Accord,Y
+IL,250/500,FEMALE,PhD,farming-fishing,kayaking,own-child,Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,Riverwood,2230 1st St,1,NO,1,1,YES,Mercedes,ML350,Y
+IN,250/500,FEMALE,Associate,protective-serv,cross-fit,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Arlington,6719 Flute St,3,NO,1,2,YES,Nissan,Maxima,Y
+OH,500/1000,MALE,Associate,machine-op-inspct,hiking,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,Northbrook,8064 4th Ave,3,NO,1,1,YES,Suburu,Legacy,N
+IL,250/500,MALE,Masters,armed-forces,golf,husband,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,Northbend,2469 Francis Lane,3,NO,2,2,NO,BMW,3 Series,N
+OH,100/300,FEMALE,PhD,sales,dancing,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Springfield,4671 5th Ridge,3,NO,2,2,YES,Toyota,Camry,Y
+IN,100/300,MALE,MD,sales,base-jumping,not-in-family,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Northbrook,6985 Maple Lane,3,NO,0,3,NO,Honda,Accord,Y
+OH,100/300,FEMALE,Associate,handlers-cleaners,skydiving,other-relative,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,Hillsdale,7791 Britain Ridge,1,NO,0,0,NO,Suburu,Legacy,N
+OH,500/1000,MALE,PhD,protective-serv,board-games,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,Hillsdale,6355 4th Hwy,3,NO,2,2,NO,Toyota,Corolla,N
+IL,250/500,FEMALE,Masters,machine-op-inspct,golf,unmarried,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Northbend,3495 Britain Drive,3,YES,2,0,NO,BMW,X6,N
+IL,500/1000,FEMALE,MD,transport-moving,bungie-jumping,wife,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,Northbend,2980 Sky Ridge,1,NO,2,1,NO,Nissan,Ultima,N
+OH,500/1000,MALE,High School,exec-managerial,bungie-jumping,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Riverwood,5914 Oak Ave,3,NO,1,3,NO,BMW,X5,N
+IN,500/1000,FEMALE,Associate,adm-clerical,camping,wife,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,VA,Northbend,3835 5th Ave,3,YES,1,1,NO,Accura,MDX,N
+IL,250/500,FEMALE,High School,transport-moving,yachting,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Northbend,5925 Tree Hwy,3,NO,1,0,NO,Toyota,Highlander,N
+IN,500/1000,MALE,Associate,protective-serv,reading,other-relative,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Springfield,6250 1st Ridge,1,YES,0,1,YES,Suburu,Forrestor,Y
+IL,100/300,FEMALE,High School,sales,video-games,wife,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,1346 5th Lane,1,YES,0,2,YES,Toyota,Corolla,N
+IN,250/500,MALE,JD,adm-clerical,polo,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Hillsdale,1128 Maple Lane,3,YES,0,3,YES,Dodge,RAM,N
+IL,250/500,MALE,High School,handlers-cleaners,movies,husband,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,Riverwood,6309 Cherokee Ave,1,NO,1,2,YES,BMW,3 Series,N
+OH,500/1000,FEMALE,Masters,priv-house-serv,board-games,other-relative,Multi-vehicle Collision,Rear Collision,Total Loss,Police,PA,Northbend,4618 Flute Ave,3,NO,0,2,NO,Audi,A3,N
+IL,250/500,MALE,College,exec-managerial,sleeping,not-in-family,Multi-vehicle Collision,Rear Collision,Major Damage,Other,VA,Springfield,6191 Oak Lane,2,YES,2,2,NO,Honda,CRV,Y
+IL,500/1000,MALE,JD,tech-support,sleeping,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,Northbend,1316 Britain Ridge,3,YES,1,1,YES,Nissan,Pathfinder,N
+IL,100/300,FEMALE,High School,farming-fishing,bungie-jumping,own-child,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,Hillsdale,5924 Maple Drive,3,YES,0,2,NO,Volkswagen,Jetta,N
+IN,100/300,MALE,PhD,craft-repair,yachting,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Arlington,8917 Tree Ridge,3,YES,0,0,NO,Chevrolet,Tahoe,N
+IN,250/500,MALE,MD,armed-forces,base-jumping,husband,Multi-vehicle Collision,Side Collision,Major Damage,Other,NY,Columbus,3966 Francis Ridge,3,YES,0,2,YES,Audi,A3,Y
+IN,250/500,MALE,PhD,protective-serv,board-games,own-child,Single Vehicle Collision,Front Collision,Major Damage,Other,WV,Springfield,1507 Solo Ave,1,NO,1,0,NO,Honda,CRV,Y
+OH,500/1000,MALE,Masters,machine-op-inspct,base-jumping,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,Springfield,4272 Oak Ridge,1,NO,2,3,NO,Toyota,Camry,N
+IL,500/1000,FEMALE,PhD,transport-moving,reading,husband,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Riverwood,4434 Lincoln Ave,3,NO,1,3,NO,Nissan,Maxima,Y
+IN,250/500,FEMALE,JD,tech-support,base-jumping,unmarried,Parked Car,Rear Collision,Trivial Damage,None,SC,Northbend,7529 Solo Ridge,1,NO,2,2,NO,Nissan,Ultima,N
+IL,500/1000,FEMALE,MD,prof-specialty,reading,husband,Parked Car,Rear Collision,Trivial Damage,None,VA,Arlington,8096 Apache Hwy,1,NO,2,2,NO,Suburu,Legacy,N
+OH,100/300,MALE,College,prof-specialty,hiking,wife,Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,Arlington,9417 Tree Hwy,1,NO,0,0,YES,Ford,Escape,N
+IL,500/1000,FEMALE,JD,armed-forces,camping,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,Hillsdale,3809 Texas Lane,1,NO,0,1,YES,BMW,3 Series,N
+OH,250/500,MALE,College,armed-forces,sleeping,unmarried,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,Columbus,1540 Apache Lane,3,NO,2,1,NO,Chevrolet,Silverado,N
+IL,500/1000,MALE,Associate,tech-support,camping,wife,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Springfield,2337 Lincoln Hwy,1,YES,2,0,NO,Dodge,RAM,N
+IN,250/500,FEMALE,Associate,priv-house-serv,movies,husband,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,Hillsdale,6770 1st St,1,NO,1,1,YES,Saab,92x,N
+IN,500/1000,MALE,MD,priv-house-serv,video-games,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,4119 Texas St,3,NO,1,3,NO,Suburu,Forrestor,N
+IL,100/300,FEMALE,JD,sales,cross-fit,wife,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,Arlington,4347 2nd Ridge,3,YES,2,2,NO,Audi,A3,Y
+OH,100/300,FEMALE,Associate,craft-repair,movies,wife,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,Columbus,1091 1st Drive,1,YES,1,3,NO,BMW,3 Series,N
+IL,250/500,MALE,College,armed-forces,skydiving,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,Northbend,8203 Lincoln Ave,1,NO,2,2,YES,Suburu,Impreza,Y
+IL,500/1000,MALE,Masters,protective-serv,sleeping,other-relative,Vehicle Theft,Rear Collision,Minor Damage,None,WV,Northbend,9154 MLK Hwy,1,NO,0,3,NO,Ford,Fusion,N
+IN,100/300,FEMALE,Associate,tech-support,board-games,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,Columbus,5780 4th Ave,1,NO,2,3,NO,Jeep,Grand Cherokee,Y
+IN,100/300,MALE,PhD,transport-moving,hiking,unmarried,Single Vehicle Collision,Side Collision,Minor Damage,Police,VA,Hillsdale,6945 Texas Hwy,1,YES,0,2,YES,Jeep,Wrangler,N
+OH,250/500,MALE,Associate,machine-op-inspct,skydiving,own-child,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Springfield,5639 1st Ridge,1,YES,2,0,YES,Suburu,Forrestor,N
+IN,500/1000,FEMALE,PhD,handlers-cleaners,base-jumping,husband,Single Vehicle Collision,Front Collision,Total Loss,Other,VA,Arlington,3834 Pine St,1,NO,2,2,YES,Mercedes,E400,N
+IL,100/300,MALE,JD,tech-support,cross-fit,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,Arlington,1358 Maple St,3,YES,1,0,NO,Audi,A5,N
+IL,100/300,FEMALE,MD,craft-repair,bungie-jumping,unmarried,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Riverwood,7460 Apache Lane,1,NO,1,3,NO,Accura,TL,Y
+OH,500/1000,FEMALE,JD,tech-support,polo,own-child,Single Vehicle Collision,Side Collision,Minor Damage,Other,VA,Columbus,5771 Sky Ave,1,YES,1,3,NO,Volkswagen,Jetta,N
+IL,500/1000,FEMALE,Associate,machine-op-inspct,paintball,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,Northbend,2865 Maple Lane,3,NO,1,0,NO,Audi,A3,Y
+IN,100/300,FEMALE,High School,craft-repair,camping,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,Riverwood,8940 Elm Ave,1,NO,1,3,NO,Honda,CRV,N
+OH,100/300,MALE,Masters,adm-clerical,skydiving,own-child,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,Hillsdale,1215 Pine Hwy,1,NO,0,2,NO,Suburu,Forrestor,N
+IN,500/1000,FEMALE,High School,adm-clerical,base-jumping,own-child,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Springfield,6874 Maple Ridge,3,YES,0,0,NO,Volkswagen,Passat,N
+OH,100/300,FEMALE,MD,prof-specialty,golf,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,Hillsdale,8834 Elm Drive,1,NO,0,0,NO,Nissan,Ultima,N
+IL,250/500,FEMALE,MD,craft-repair,paintball,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,Columbus,8542 Lincoln Ridge,3,YES,1,1,YES,Ford,Fusion,N
+OH,250/500,MALE,College,other-service,movies,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,Springfield,9397 Francis St,3,YES,0,2,NO,Suburu,Impreza,N
+IL,100/300,MALE,College,adm-clerical,yachting,wife,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Springfield,4907 Andromedia Drive,1,NO,1,3,NO,Jeep,Grand Cherokee,Y
+OH,500/1000,MALE,PhD,priv-house-serv,basketball,unmarried,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,Columbus,4429 Washington St,1,NO,1,0,YES,Saab,93,N
+IN,250/500,FEMALE,Associate,transport-moving,polo,unmarried,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,OH,Columbus,2651 MLK Lane,3,YES,2,1,YES,Chevrolet,Tahoe,Y
+IN,100/300,FEMALE,College,priv-house-serv,paintball,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Northbend,2942 1st Lane,3,YES,2,1,NO,Toyota,Highlander,Y
+IN,100/300,MALE,MD,prof-specialty,polo,own-child,Parked Car,Rear Collision,Trivial Damage,None,VA,Arlington,6317 Best St,1,YES,0,2,NO,Saab,93,N
+OH,100/300,FEMALE,Associate,sales,reading,own-child,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,Northbend,1555 Washington Lane,3,NO,0,2,NO,Mercedes,ML350,Y
+OH,500/1000,FEMALE,High School,adm-clerical,polo,own-child,Parked Car,Rear Collision,Minor Damage,Police,SC,Hillsdale,1919 4th Lane,1,NO,2,2,YES,Volkswagen,Passat,Y
+IN,100/300,FEMALE,Masters,adm-clerical,chess,wife,Parked Car,Rear Collision,Minor Damage,None,NC,Arlington,5480 3rd Ridge,1,NO,0,0,NO,BMW,X5,Y
+IL,250/500,FEMALE,Masters,exec-managerial,dancing,own-child,Vehicle Theft,Front Collision,Trivial Damage,None,SC,Northbrook,8864 Tree Ridge,1,NO,2,0,NO,Volkswagen,Passat,N
+OH,500/1000,FEMALE,Associate,adm-clerical,hiking,own-child,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,Northbend,2777 Solo Drive,1,NO,1,0,YES,Toyota,Highlander,N
+IN,250/500,FEMALE,JD,craft-repair,yachting,wife,Single Vehicle Collision,Side Collision,Minor Damage,Police,NC,Northbend,9929 Rock Drive,1,YES,0,2,NO,Accura,TL,Y
+IL,500/1000,MALE,PhD,exec-managerial,hiking,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Other,WV,Northbend,4143 Maple Ridge,4,YES,0,1,NO,Dodge,RAM,N
+IN,100/300,MALE,High School,protective-serv,exercise,other-relative,Multi-vehicle Collision,Front Collision,Major Damage,Other,NC,Columbus,7121 Rock St,3,YES,2,1,NO,Saab,93,N
+OH,500/1000,FEMALE,PhD,farming-fishing,dancing,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,Riverwood,9067 Texas Ave,2,NO,1,2,YES,Honda,Accord,N
+IL,500/1000,FEMALE,PhD,sales,video-games,husband,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,Hillsdale,9245 Weaver Ridge,1,NO,1,3,NO,Suburu,Forrestor,N
+OH,250/500,FEMALE,JD,armed-forces,base-jumping,wife,Parked Car,Rear Collision,Minor Damage,None,WV,Arlington,4585 Francis Ave,1,YES,1,2,NO,Honda,Civic,Y
+IL,500/1000,MALE,College,transport-moving,chess,unmarried,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbend,6738 Francis Hwy,4,NO,0,0,YES,Suburu,Forrestor,N
+IL,250/500,FEMALE,Masters,sales,reading,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,Springfield,7576 Pine Ridge,3,NO,1,0,YES,Volkswagen,Jetta,N
+OH,500/1000,FEMALE,Associate,craft-repair,exercise,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Arlington,9105 Tree Lane,1,NO,1,0,NO,Dodge,Neon,N
+OH,100/300,MALE,JD,other-service,polo,not-in-family,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,Northbrook,2299 Britain Drive,1,NO,1,2,NO,Toyota,Corolla,N
+IN,100/300,MALE,JD,transport-moving,sleeping,own-child,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Springfield,1914 Francis St,3,NO,2,0,NO,Audi,A3,N
+OH,100/300,MALE,College,other-service,reading,other-relative,Multi-vehicle Collision,Front Collision,Major Damage,Other,VA,Columbus,6658 Weaver St,3,NO,1,2,NO,Mercedes,E400,Y
+IN,250/500,FEMALE,Associate,craft-repair,sleeping,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Northbend,1985 5th Ave,3,NO,1,3,NO,Audi,A5,N
+IL,500/1000,FEMALE,PhD,exec-managerial,base-jumping,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,Springfield,1707 Sky Ave,1,YES,1,3,NO,Chevrolet,Malibu,N
+OH,250/500,MALE,PhD,exec-managerial,golf,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Springfield,6456 Andromedia Drive,3,NO,0,2,YES,Nissan,Ultima,Y
+IL,250/500,MALE,JD,armed-forces,chess,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Arlington,5649 Texas Ave,1,YES,0,1,YES,BMW,3 Series,Y
+IL,250/500,FEMALE,Masters,protective-serv,board-games,own-child,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Riverwood,1220 MLK Ave,1,NO,2,2,YES,Audi,A5,N
+OH,500/1000,MALE,High School,prof-specialty,base-jumping,wife,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Northbend,1589 Pine St,3,NO,1,0,YES,Ford,F150,N
+OH,250/500,FEMALE,College,other-service,paintball,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,WV,Northbrook,8906 Elm Lane,1,NO,0,1,NO,Mercedes,E400,N
+IN,500/1000,MALE,Associate,machine-op-inspct,camping,wife,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,Hillsdale,2654 Elm Drive,1,NO,1,2,NO,Honda,Accord,N
+OH,100/300,MALE,JD,machine-op-inspct,base-jumping,wife,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,Columbus,6681 Texas Ridge,3,YES,0,1,NO,Nissan,Ultima,N
+OH,500/1000,FEMALE,JD,priv-house-serv,sleeping,own-child,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,WV,Northbrook,7782 Rock St,1,YES,1,2,NO,Suburu,Legacy,N
+IL,100/300,FEMALE,JD,exec-managerial,golf,unmarried,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Arlington,9286 Oak Ave,1,YES,0,2,NO,Saab,92x,N
+IN,250/500,MALE,PhD,exec-managerial,golf,other-relative,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,Arlington,8758 5th St,3,NO,0,0,NO,Toyota,Highlander,N
+OH,100/300,FEMALE,High School,prof-specialty,board-games,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NY,Columbus,7281 Maple Hwy,3,NO,2,1,NO,Saab,95,N
+OH,250/500,MALE,MD,exec-managerial,video-games,own-child,Multi-vehicle Collision,Front Collision,Total Loss,Other,WV,Northbend,7571 Elm Ridge,3,NO,1,2,NO,Volkswagen,Jetta,N
+IN,500/1000,MALE,High School,farming-fishing,reading,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,Arlington,6738 Washington Hwy,4,NO,2,2,NO,Accura,TL,Y
+OH,250/500,FEMALE,PhD,machine-op-inspct,video-games,not-in-family,Vehicle Theft,Rear Collision,Minor Damage,None,SC,Northbend,4188 Britain Ave,1,YES,2,0,NO,Accura,MDX,N
+IN,100/300,MALE,High School,protective-serv,exercise,unmarried,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Riverwood,6934 Lincoln Ave,1,NO,1,0,NO,Ford,Fusion,N
+IN,100/300,MALE,Masters,adm-clerical,dancing,wife,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,Hillsdale,6390 Apache St,1,YES,0,2,YES,Jeep,Grand Cherokee,N
+OH,250/500,FEMALE,High School,prof-specialty,dancing,unmarried,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Columbus,7615 Weaver Drive,1,NO,0,1,YES,Saab,95,N
+IN,100/300,MALE,MD,armed-forces,exercise,own-child,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Columbus,6409 Cherokee Drive,1,NO,1,0,YES,Chevrolet,Malibu,N
+OH,250/500,FEMALE,Masters,priv-house-serv,video-games,not-in-family,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Springfield,1123 5th Lane,2,YES,1,3,NO,Jeep,Wrangler,N
+IL,500/1000,MALE,MD,transport-moving,base-jumping,own-child,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,5168 5th Ave,1,YES,1,0,NO,Ford,Escape,N
+IN,100/300,FEMALE,College,craft-repair,skydiving,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,Columbus,3697 Apache Drive,3,YES,2,0,NO,Mercedes,C300,Y
+IN,100/300,MALE,Associate,sales,skydiving,other-relative,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,Northbend,1910 Sky Ave,1,NO,0,2,NO,Audi,A5,N
+OH,500/1000,FEMALE,College,armed-forces,cross-fit,unmarried,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,Riverwood,8954 Apache Lane,1,NO,1,3,NO,Chevrolet,Silverado,Y
+IN,100/300,FEMALE,College,transport-moving,skydiving,wife,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Hillsdale,3110 Lincoln Lane,3,NO,2,3,NO,Honda,Civic,N
+OH,500/1000,MALE,MD,adm-clerical,exercise,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,Arlington,6035 Rock Ave,3,NO,0,3,YES,Toyota,Corolla,N
+IN,500/1000,FEMALE,High School,machine-op-inspct,sleeping,wife,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,Hillsdale,2220 1st Lane,3,NO,0,0,NO,Suburu,Forrestor,N
+OH,250/500,MALE,Masters,exec-managerial,camping,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,OH,Riverwood,4972 Francis Lane,1,NO,1,3,YES,Chevrolet,Silverado,N
+OH,250/500,FEMALE,College,exec-managerial,cross-fit,unmarried,Vehicle Theft,Rear Collision,Trivial Damage,None,NC,Springfield,6957 Weaver Drive,1,NO,2,3,NO,Ford,Escape,N
+IN,100/300,FEMALE,Associate,adm-clerical,polo,not-in-family,Parked Car,Rear Collision,Minor Damage,None,WV,Northbrook,1512 Rock Lane,1,NO,0,3,NO,BMW,M5,N
+OH,250/500,FEMALE,High School,machine-op-inspct,video-games,not-in-family,Parked Car,Front Collision,Trivial Damage,Police,SC,Arlington,3693 Pine Ave,1,YES,2,0,YES,BMW,3 Series,N
+OH,250/500,FEMALE,College,farming-fishing,camping,not-in-family,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Riverwood,9879 Apache Drive,3,NO,2,2,NO,Chevrolet,Tahoe,N
+IL,100/300,MALE,Masters,prof-specialty,movies,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,Northbend,2494 Andromedia Drive,3,NO,1,2,YES,Jeep,Grand Cherokee,N
+OH,500/1000,MALE,Associate,armed-forces,paintball,unmarried,Vehicle Theft,Rear Collision,Minor Damage,None,NC,Riverwood,4615 Embaracadero Ave,1,YES,1,2,NO,Dodge,RAM,N
+OH,500/1000,FEMALE,High School,machine-op-inspct,basketball,unmarried,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,Northbrook,1929 Britain Drive,1,NO,1,3,NO,Suburu,Legacy,N
+OH,500/1000,FEMALE,Masters,transport-moving,bungie-jumping,wife,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Riverwood,5051 Elm St,1,NO,0,2,YES,Mercedes,ML350,N
+OH,250/500,FEMALE,JD,priv-house-serv,exercise,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Hillsdale,9910 Maple Ave,1,YES,1,2,YES,Jeep,Grand Cherokee,N
+IN,500/1000,MALE,High School,priv-house-serv,board-games,unmarried,Vehicle Theft,Rear Collision,Trivial Damage,Police,NC,Riverwood,5602 Britain St,1,NO,1,3,NO,Jeep,Wrangler,N
+IL,250/500,FEMALE,JD,exec-managerial,paintball,own-child,Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,Springfield,6889 Cherokee St,1,NO,2,0,NO,BMW,X5,N
+IN,100/300,FEMALE,College,tech-support,chess,husband,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Northbend,3926 Rock Lane,1,NO,2,2,NO,Volkswagen,Jetta,N
+IN,250/500,MALE,MD,prof-specialty,video-games,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Northbend,6717 Best Drive,1,NO,1,0,NO,Toyota,Camry,N
+IN,500/1000,MALE,High School,handlers-cleaners,hiking,husband,Single Vehicle Collision,Front Collision,Major Damage,Other,WV,Columbus,6117 4th Ave,1,NO,0,0,NO,Toyota,Corolla,N
+IN,100/300,FEMALE,MD,other-service,kayaking,wife,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,Northbend,2668 Cherokee St,1,NO,0,0,NO,Ford,Fusion,N
+IN,500/1000,MALE,Masters,machine-op-inspct,base-jumping,husband,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Arlington,6838 Flute Lane,3,NO,0,3,YES,Suburu,Forrestor,Y
+OH,500/1000,FEMALE,College,exec-managerial,basketball,other-relative,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Northbrook,6583 MLK Ridge,4,NO,0,0,NO,Chevrolet,Silverado,Y
+IL,500/1000,MALE,Masters,farming-fishing,cross-fit,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Arlington,6492 4th Lane,1,NO,0,2,NO,BMW,X5,N
+IN,100/300,FEMALE,High School,priv-house-serv,polo,own-child,Single Vehicle Collision,Side Collision,Minor Damage,Police,NC,Hillsdale,7299 Apache St,1,NO,1,0,NO,Nissan,Maxima,N
+IL,100/300,FEMALE,Masters,exec-managerial,camping,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,Springfield,2756 Britain Hwy,3,NO,0,0,NO,Mercedes,ML350,Y
+IN,500/1000,MALE,Masters,transport-moving,bungie-jumping,own-child,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,9360 3rd Drive,1,YES,2,3,NO,Nissan,Maxima,N
+IN,250/500,FEMALE,JD,transport-moving,sleeping,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,Arlington,1655 Francis Hwy,4,YES,1,2,YES,Dodge,Neon,N
+OH,500/1000,FEMALE,PhD,priv-house-serv,yachting,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,Columbus,9720 Lincoln Hwy,3,NO,0,0,YES,Saab,92x,N
+OH,100/300,FEMALE,Masters,priv-house-serv,base-jumping,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Police,NC,Northbend,7066 Texas Ave,1,YES,1,0,NO,Audi,A5,Y
+IL,100/300,MALE,College,priv-house-serv,exercise,wife,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,Columbus,9728 Britain Hwy,1,NO,2,3,YES,Dodge,RAM,N
+OH,100/300,MALE,Associate,priv-house-serv,skydiving,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,Riverwood,4486 Cherokee Ridge,1,NO,0,3,NO,Honda,CRV,N
+OH,250/500,MALE,MD,machine-op-inspct,reading,wife,Single Vehicle Collision,Side Collision,Total Loss,Police,PA,Northbend,8021 Flute Ave,1,NO,1,0,NO,Dodge,Neon,N
+IL,100/300,MALE,JD,exec-managerial,bungie-jumping,other-relative,Single Vehicle Collision,Side Collision,Major Damage,Fire,PA,Riverwood,2774 Apache Drive,1,NO,1,2,NO,Suburu,Legacy,N
+OH,500/1000,FEMALE,PhD,priv-house-serv,chess,not-in-family,Parked Car,Rear Collision,Trivial Damage,Police,NC,Hillsdale,2787 MLK St,1,NO,2,2,NO,Mercedes,ML350,Y
+IL,500/1000,FEMALE,PhD,other-service,sleeping,own-child,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Northbrook,9847 Elm St,1,NO,1,1,NO,Audi,A5,N
+IN,250/500,MALE,JD,handlers-cleaners,polo,unmarried,Parked Car,Front Collision,Trivial Damage,None,VA,Hillsdale,4629 Elm Ridge,1,YES,2,1,YES,Nissan,Pathfinder,N
+IN,500/1000,MALE,Masters,protective-serv,yachting,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,Columbus,5585 Washington Drive,1,NO,0,2,NO,Dodge,Neon,N
+OH,100/300,MALE,MD,tech-support,board-games,own-child,Multi-vehicle Collision,Front Collision,Total Loss,Other,WV,Hillsdale,3925 Sky St,3,NO,0,3,NO,Dodge,Neon,N
+IN,250/500,FEMALE,PhD,transport-moving,exercise,wife,Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,Hillsdale,3903 Oak Ave,1,YES,0,0,NO,Suburu,Legacy,Y
+IN,500/1000,FEMALE,JD,protective-serv,paintball,not-in-family,Parked Car,Rear Collision,Minor Damage,None,VA,Columbus,3805 Lincoln Hwy,1,NO,2,1,NO,Jeep,Grand Cherokee,N
+IN,500/1000,FEMALE,Associate,sales,reading,other-relative,Parked Car,Rear Collision,Minor Damage,None,NC,Arlington,4055 2nd Drive,1,NO,0,0,NO,Dodge,Neon,N
+IN,500/1000,FEMALE,High School,farming-fishing,chess,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,Northbend,3707 Oak Ridge,1,YES,1,1,NO,Chevrolet,Silverado,Y
+IN,250/500,FEMALE,JD,priv-house-serv,dancing,own-child,Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,Springfield,7327 Lincoln Drive,1,YES,2,3,YES,Jeep,Wrangler,N
+IL,250/500,MALE,Associate,tech-support,exercise,wife,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,Riverwood,9369 Flute Hwy,1,YES,2,2,NO,Chevrolet,Malibu,N
+OH,100/300,FEMALE,PhD,adm-clerical,yachting,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Arlington,4239 Weaver Ave,1,NO,1,0,NO,Dodge,Neon,N
+IL,100/300,FEMALE,Masters,other-service,reading,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Northbend,6044 Weaver Drive,4,NO,0,3,NO,BMW,X6,N
+OH,100/300,FEMALE,PhD,other-service,base-jumping,husband,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Northbrook,8879 1st Drive,1,YES,0,1,NO,Toyota,Camry,N
+IN,100/300,FEMALE,College,transport-moving,reading,husband,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,Northbrook,9488 Best Drive,1,NO,2,0,YES,Chevrolet,Malibu,N
+IL,500/1000,FEMALE,College,priv-house-serv,board-games,unmarried,Parked Car,Rear Collision,Trivial Damage,None,NY,Hillsdale,7500 Texas Ridge,1,YES,1,0,NO,Audi,A3,N
+IL,250/500,FEMALE,Associate,transport-moving,reading,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,Arlington,2048 3rd Ridge,3,NO,2,1,NO,Suburu,Forrestor,N
+IL,250/500,FEMALE,Associate,machine-op-inspct,board-games,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,Northbend,3419 Apache St,1,NO,2,3,NO,Chevrolet,Malibu,N
+IL,500/1000,MALE,Associate,adm-clerical,video-games,not-in-family,Multi-vehicle Collision,Front Collision,Minor Damage,Police,WV,Springfield,9875 MLK Ave,3,YES,2,0,NO,Ford,Escape,N
+IN,100/300,MALE,Masters,craft-repair,yachting,husband,Vehicle Theft,Rear Collision,Minor Damage,Police,NY,Columbus,3553 Texas Ave,1,NO,0,1,YES,Dodge,Neon,N
+IL,100/300,MALE,Masters,transport-moving,movies,own-child,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,Riverwood,4335 1st St,1,NO,2,1,YES,Volkswagen,Passat,Y
+OH,500/1000,FEMALE,MD,priv-house-serv,board-games,unmarried,Single Vehicle Collision,Side Collision,Total Loss,Other,NC,Hillsdale,9070 Tree Ave,1,YES,0,2,NO,Jeep,Wrangler,N
+IN,500/1000,FEMALE,PhD,other-service,yachting,other-relative,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Hillsdale,3900 Texas St,1,YES,2,3,NO,Accura,MDX,N
+OH,250/500,FEMALE,High School,tech-support,base-jumping,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,Riverwood,9657 5th Ave,1,NO,2,2,NO,Volkswagen,Passat,Y
+IL,100/300,MALE,MD,protective-serv,board-games,own-child,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbend,5765 Washington St,1,YES,0,2,NO,Honda,Accord,N
+IL,100/300,FEMALE,PhD,tech-support,hiking,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Police,SC,Arlington,5997 Embaracadero Drive,3,NO,2,1,YES,Suburu,Impreza,Y
+IL,100/300,MALE,JD,prof-specialty,golf,wife,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,Springfield,1738 Solo Lane,3,NO,2,0,NO,Saab,93,N
+OH,500/1000,MALE,PhD,handlers-cleaners,skydiving,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Other,SC,Columbus,2903 Weaver Drive,3,YES,2,2,NO,Nissan,Ultima,N
+IL,500/1000,FEMALE,Associate,handlers-cleaners,dancing,unmarried,Single Vehicle Collision,Rear Collision,Major Damage,Police,VA,Springfield,8926 Texas Ridge,1,NO,2,1,NO,BMW,M5,N
+IN,100/300,FEMALE,Masters,transport-moving,camping,wife,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Northbend,4231 3rd Ave,3,NO,0,1,YES,Chevrolet,Tahoe,N
+IL,250/500,FEMALE,College,protective-serv,exercise,other-relative,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Springfield,8049 4th St,3,YES,0,0,NO,Volkswagen,Passat,N
+OH,100/300,FEMALE,High School,farming-fishing,yachting,not-in-family,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,6501 5th Drive,3,NO,2,2,NO,Volkswagen,Passat,N
+IL,100/300,FEMALE,PhD,protective-serv,kayaking,not-in-family,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NC,Hillsdale,7909 Andromedia Hwy,3,NO,2,2,NO,Volkswagen,Jetta,N
+OH,100/300,FEMALE,JD,craft-repair,skydiving,husband,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Riverwood,5865 Sky Lane,1,NO,2,3,NO,Nissan,Maxima,Y
+IL,500/1000,MALE,MD,tech-support,video-games,unmarried,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,WV,Springfield,1957 Washington Ave,3,YES,1,2,NO,Dodge,Neon,N
+IL,250/500,MALE,PhD,armed-forces,hiking,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Riverwood,7649 Texas St,3,NO,2,0,YES,BMW,X6,N
+IL,100/300,FEMALE,PhD,farming-fishing,kayaking,wife,Vehicle Theft,Rear Collision,Trivial Damage,None,SC,Columbus,1992 Britain Drive,1,NO,1,0,NO,Nissan,Maxima,N
+IL,500/1000,MALE,JD,exec-managerial,chess,other-relative,Parked Car,Rear Collision,Minor Damage,Police,PA,Springfield,9685 Sky Ridge,1,NO,2,2,NO,Toyota,Camry,Y
+OH,500/1000,FEMALE,Masters,other-service,golf,other-relative,Multi-vehicle Collision,Side Collision,Total Loss,Police,NC,Hillsdale,3457 Texas Lane,3,NO,1,1,NO,Nissan,Ultima,N
+IL,250/500,MALE,High School,adm-clerical,polo,husband,Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,Columbus,7693 Cherokee Lane,1,NO,0,3,YES,Saab,92x,Y
+OH,100/300,MALE,MD,farming-fishing,cross-fit,other-relative,Single Vehicle Collision,Side Collision,Total Loss,Police,VA,Northbend,3167 4th Ridge,1,NO,0,1,YES,Saab,95,Y
+IL,500/1000,MALE,Masters,armed-forces,chess,unmarried,Vehicle Theft,Rear Collision,Minor Damage,Police,NC,Riverwood,1617 Rock Drive,1,NO,1,2,NO,Mercedes,C300,Y
+IN,250/500,MALE,MD,sales,yachting,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Fire,WV,Arlington,7877 3rd Ridge,1,NO,2,1,NO,Mercedes,ML350,Y
+IL,100/300,MALE,College,exec-managerial,sleeping,wife,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Springfield,9325 Lincoln Drive,3,NO,0,2,NO,Ford,Fusion,N
+OH,250/500,FEMALE,Masters,priv-house-serv,polo,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,PA,Northbrook,5855 Apache St,1,NO,0,0,NO,Accura,MDX,N
+IN,500/1000,MALE,JD,handlers-cleaners,golf,not-in-family,Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,Riverwood,1328 Texas Lane,3,NO,0,3,NO,Volkswagen,Passat,Y
+IL,100/300,MALE,JD,armed-forces,camping,unmarried,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Springfield,4567 Pine Ave,2,YES,2,0,NO,BMW,3 Series,N
+OH,100/300,MALE,High School,armed-forces,video-games,own-child,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Springfield,7575 Pine St,1,NO,2,0,NO,Jeep,Wrangler,N
+IN,100/300,MALE,Associate,adm-clerical,exercise,husband,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,Springfield,2850 Washington St,1,NO,2,1,NO,Nissan,Maxima,N
+OH,500/1000,MALE,High School,other-service,golf,husband,Single Vehicle Collision,Rear Collision,Total Loss,Fire,VA,Riverwood,9169 Cherokee Hwy,1,NO,0,0,NO,Chevrolet,Malibu,N
+IN,500/1000,FEMALE,High School,armed-forces,yachting,other-relative,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Springfield,6443 Washington Ridge,3,NO,0,0,NO,Dodge,RAM,N
+IL,100/300,MALE,College,prof-specialty,exercise,own-child,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,Northbend,6751 5th Hwy,1,NO,0,3,YES,Mercedes,ML350,N
+OH,250/500,MALE,JD,transport-moving,cross-fit,not-in-family,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NY,Columbus,2289 Weaver Ridge,3,NO,0,2,NO,Dodge,Neon,Y
+OH,500/1000,MALE,High School,armed-forces,movies,unmarried,Vehicle Theft,Front Collision,Minor Damage,None,WV,Arlington,8306 1st Drive,1,YES,1,1,NO,Toyota,Corolla,N
+IL,100/300,FEMALE,High School,machine-op-inspct,reading,unmarried,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,Northbend,2603 Andromedia Hwy,3,YES,1,3,NO,Jeep,Grand Cherokee,N
+OH,250/500,MALE,MD,machine-op-inspct,camping,wife,Multi-vehicle Collision,Side Collision,Major Damage,Other,NY,Northbrook,6479 Francis Ave,3,NO,0,2,NO,Saab,95,N
+IN,100/300,FEMALE,Masters,adm-clerical,reading,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,Northbend,6428 Andromedia Lane,1,NO,1,2,NO,Chevrolet,Malibu,N
+OH,250/500,FEMALE,Associate,armed-forces,board-games,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,Northbrook,9081 Cherokee Hwy,3,NO,2,3,NO,Dodge,RAM,Y
+IN,100/300,MALE,PhD,prof-specialty,camping,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,Springfield,1532 Washington St,1,NO,0,3,NO,Chevrolet,Tahoe,N
+IL,500/1000,MALE,Associate,machine-op-inspct,hiking,husband,Vehicle Theft,Rear Collision,Trivial Damage,Police,NY,Northbend,4625 MLK Drive,1,NO,1,2,NO,Accura,MDX,N
+OH,500/1000,MALE,College,tech-support,base-jumping,wife,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Springfield,1529 Elm Ridge,4,NO,1,1,NO,Accura,MDX,N
+IL,250/500,MALE,MD,exec-managerial,exercise,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Police,NY,Arlington,2086 Francis Drive,1,NO,0,0,NO,Mercedes,ML350,Y
+IN,100/300,FEMALE,PhD,craft-repair,camping,own-child,Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,Northbend,9066 Best Ridge,1,YES,1,1,YES,Saab,95,N
+OH,500/1000,FEMALE,JD,craft-repair,paintball,other-relative,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbrook,7178 Best Drive,1,NO,2,3,YES,Honda,CRV,N
+IN,250/500,MALE,Masters,tech-support,sleeping,husband,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,Columbus,9821 Francis Ave,1,NO,0,2,NO,Mercedes,ML350,N
+IL,100/300,FEMALE,Associate,armed-forces,exercise,husband,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,Hillsdale,7061 Cherokee Drive,1,YES,1,1,NO,Nissan,Ultima,N
+IL,500/1000,FEMALE,PhD,handlers-cleaners,board-games,own-child,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,Springfield,1325 1st Lane,1,NO,1,0,NO,Accura,TL,N
+OH,100/300,FEMALE,JD,farming-fishing,skydiving,wife,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,VA,Hillsdale,3769 Sky St,2,YES,1,0,NO,Ford,F150,Y
+IL,100/300,MALE,MD,sales,reading,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,Hillsdale,8489 Pine Hwy,1,NO,2,1,NO,Jeep,Grand Cherokee,N
+IL,500/1000,FEMALE,PhD,tech-support,paintball,other-relative,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Riverwood,6329 Apache Ave,3,NO,2,1,NO,Nissan,Ultima,N
+IL,100/300,MALE,High School,prof-specialty,yachting,husband,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Northbrook,9293 Pine Lane,1,NO,2,2,YES,Accura,MDX,N
+IN,500/1000,FEMALE,High School,machine-op-inspct,board-games,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,Arlington,9224 Sky Drive,3,NO,0,1,NO,Honda,CRV,N
+IL,500/1000,MALE,College,sales,golf,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,Northbend,8862 Maple Ridge,3,YES,2,0,NO,Mercedes,E400,N
+OH,250/500,MALE,High School,priv-house-serv,reading,husband,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,Arlington,3492 Flute Lane,1,NO,2,0,NO,Audi,A3,N
+OH,500/1000,FEMALE,JD,sales,paintball,husband,Parked Car,Rear Collision,Trivial Damage,Police,NY,Hillsdale,6484 Tree Drive,1,NO,2,3,NO,Volkswagen,Jetta,N
+IL,250/500,MALE,JD,other-service,hiking,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Northbend,4554 Sky Ave,1,NO,2,1,YES,Nissan,Pathfinder,N
+IL,250/500,FEMALE,College,transport-moving,chess,not-in-family,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,PA,Northbrook,5201 Texas Hwy,3,YES,0,2,NO,Dodge,RAM,Y
+IL,100/300,FEMALE,College,other-service,cross-fit,husband,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Arlington,3982 Weaver Lane,1,NO,0,0,NO,Honda,Civic,N
+OH,250/500,FEMALE,JD,tech-support,movies,other-relative,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Northbrook,3660 Andromedia Hwy,1,NO,0,3,YES,Mercedes,E400,N
+IN,100/300,FEMALE,College,adm-clerical,exercise,wife,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Arlington,7135 Flute Lane,1,NO,1,2,YES,Chevrolet,Silverado,N
+IL,250/500,MALE,High School,armed-forces,hiking,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Springfield,4414 Solo Drive,3,NO,1,0,NO,Jeep,Wrangler,Y
+IL,250/500,MALE,JD,protective-serv,camping,other-relative,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,Hillsdale,2920 5th Ave,3,NO,1,0,NO,Jeep,Grand Cherokee,N
+IL,500/1000,FEMALE,Associate,tech-support,exercise,unmarried,Vehicle Theft,Front Collision,Trivial Damage,Police,NY,Northbrook,2986 MLK Drive,1,NO,0,1,NO,Chevrolet,Tahoe,N
+IN,100/300,MALE,JD,transport-moving,hiking,own-child,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Riverwood,1580 Maple Lane,1,NO,0,2,NO,Accura,RSX,N
+IL,250/500,FEMALE,PhD,farming-fishing,skydiving,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Springfield,3706 Texas Hwy,1,YES,1,3,NO,Audi,A5,N
+IN,100/300,MALE,College,farming-fishing,hiking,other-relative,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Northbend,9109 Britain Drive,4,NO,0,2,YES,Honda,Civic,N
+OH,100/300,FEMALE,MD,craft-repair,video-games,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Northbend,2290 4th Ave,3,YES,2,1,YES,Ford,F150,N
+OH,250/500,FEMALE,Associate,tech-support,skydiving,own-child,Parked Car,Rear Collision,Minor Damage,Police,NC,Northbrook,4232 Britain Ridge,1,NO,1,2,NO,Toyota,Corolla,N
+IL,100/300,FEMALE,JD,prof-specialty,exercise,own-child,Vehicle Theft,Rear Collision,Trivial Damage,Police,SC,Riverwood,6677 Andromedia Drive,1,YES,1,1,NO,Jeep,Grand Cherokee,N
+IL,100/300,FEMALE,High School,prof-specialty,kayaking,husband,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Springfield,5868 Sky Hwy,3,NO,2,0,YES,Suburu,Legacy,N
+IN,100/300,FEMALE,Masters,sales,basketball,other-relative,Vehicle Theft,Rear Collision,Trivial Damage,Police,SC,Columbus,3053 Lincoln Drive,1,NO,1,1,NO,Ford,F150,N
+IL,100/300,FEMALE,Associate,machine-op-inspct,kayaking,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Riverwood,7041 Tree Ridge,1,NO,0,1,NO,Jeep,Grand Cherokee,N
+IN,250/500,FEMALE,High School,sales,video-games,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Police,WV,Northbrook,7223 Embaracadero St,1,YES,1,3,NO,BMW,X5,Y
+IL,500/1000,FEMALE,Masters,sales,exercise,unmarried,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,Columbus,8081 Flute Ridge,1,NO,2,3,YES,Chevrolet,Malibu,N
+IN,100/300,FEMALE,College,prof-specialty,dancing,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Springfield,8618 Texas Lane,1,NO,0,0,NO,Accura,MDX,N
+IL,100/300,MALE,PhD,craft-repair,skydiving,own-child,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,Riverwood,3508 Washington St,3,NO,1,3,YES,Mercedes,C300,N
+IN,500/1000,MALE,JD,adm-clerical,paintball,not-in-family,Vehicle Theft,Rear Collision,Minor Damage,None,SC,Columbus,2193 4th Ridge,1,NO,0,3,NO,Mercedes,ML350,N
+OH,100/300,FEMALE,PhD,armed-forces,sleeping,wife,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,Northbend,8897 Sky St,3,NO,1,2,YES,Nissan,Pathfinder,N
+OH,250/500,FEMALE,College,sales,dancing,wife,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Arlington,9611 Pine Ridge,1,NO,1,0,YES,Accura,MDX,Y
+IL,250/500,MALE,MD,tech-support,basketball,husband,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,Arlington,7825 1st Ridge,3,NO,1,3,YES,Volkswagen,Jetta,N
+IL,250/500,FEMALE,Associate,priv-house-serv,reading,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,Riverwood,3039 Oak Hwy,3,YES,2,1,NO,Nissan,Ultima,N
+IL,250/500,MALE,High School,adm-clerical,paintball,own-child,Parked Car,Rear Collision,Minor Damage,None,VA,Northbend,8204 Pine Lane,1,YES,1,3,NO,Dodge,Neon,Y
+IN,250/500,FEMALE,College,prof-specialty,hiking,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,Riverwood,9787 Andromedia Ave,1,NO,0,2,YES,BMW,X5,N
+OH,500/1000,FEMALE,PhD,other-service,reading,wife,Single Vehicle Collision,Front Collision,Major Damage,Other,VA,Hillsdale,9633 Rock Hwy,1,NO,2,2,NO,Volkswagen,Jetta,N
+OH,250/500,FEMALE,JD,farming-fishing,paintball,other-relative,Parked Car,Front Collision,Trivial Damage,Police,NC,Arlington,6303 1st Drive,1,NO,0,2,YES,Mercedes,E400,N
+IL,100/300,FEMALE,MD,prof-specialty,paintball,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,Arlington,2014 Rock Ave,3,YES,1,3,NO,Saab,92x,N
+OH,100/300,FEMALE,Masters,protective-serv,golf,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,Northbrook,8983 Tree St,3,YES,0,0,YES,Suburu,Impreza,N
+IN,100/300,MALE,MD,prof-specialty,yachting,husband,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,Arlington,6260 5th Lane,1,YES,0,1,NO,Honda,Civic,Y
+IN,250/500,FEMALE,Associate,sales,paintball,own-child,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Hillsdale,2725 Britain Ridge,1,YES,1,3,NO,Suburu,Forrestor,N
+IN,100/300,MALE,MD,prof-specialty,board-games,wife,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,VA,Hillsdale,3089 Oak Ridge,1,NO,0,2,NO,Audi,A5,N
+OH,100/300,MALE,MD,armed-forces,polo,unmarried,Multi-vehicle Collision,Side Collision,Major Damage,Other,OH,Northbrook,6206 3rd Ridge,3,YES,2,1,YES,Ford,F150,Y
+IN,250/500,MALE,JD,tech-support,golf,other-relative,Vehicle Theft,Rear Collision,Minor Damage,Police,VA,Springfield,7240 5th Ridge,1,NO,1,2,NO,Accura,TL,N
+OH,250/500,MALE,PhD,armed-forces,dancing,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,Arlington,8100 3rd Ave,3,NO,2,1,NO,BMW,X6,N
+IN,500/1000,MALE,High School,transport-moving,basketball,unmarried,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NC,Arlington,3282 4th Lane,3,NO,0,3,NO,Volkswagen,Jetta,N
+OH,100/300,MALE,Associate,armed-forces,basketball,wife,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Arlington,3227 Maple Ave,1,YES,0,1,NO,Accura,RSX,N
+IL,500/1000,MALE,Masters,handlers-cleaners,chess,not-in-family,Vehicle Theft,Front Collision,Minor Damage,Police,SC,Hillsdale,4264 Lincoln Ridge,1,YES,2,2,YES,Dodge,RAM,Y
+IL,100/300,FEMALE,High School,tech-support,camping,unmarried,Parked Car,Rear Collision,Trivial Damage,Police,NC,Springfield,2215 Best Ave,1,YES,2,2,NO,Honda,CRV,N
+IL,100/300,FEMALE,JD,sales,hiking,not-in-family,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Northbend,5363 Weaver Lane,3,YES,1,2,YES,Saab,95,N
+IL,100/300,MALE,Masters,transport-moving,board-games,wife,Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,Northbrook,2397 Cherokee Ave,1,YES,2,1,NO,Volkswagen,Jetta,Y
+IN,500/1000,MALE,College,other-service,sleeping,own-child,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Arlington,9794 Embaracadero St,1,NO,2,3,YES,Ford,F150,N
+IL,500/1000,MALE,PhD,craft-repair,polo,own-child,Vehicle Theft,Rear Collision,Minor Damage,Police,NC,Northbrook,1810 Elm Hwy,1,NO,0,2,YES,Accura,TL,N
+IL,100/300,FEMALE,College,exec-managerial,yachting,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Riverwood,9603 Texas Lane,3,NO,2,1,NO,Saab,95,Y
+IN,100/300,FEMALE,PhD,craft-repair,movies,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Arlington,5650 Sky Drive,3,NO,1,0,NO,Toyota,Camry,N
+IN,500/1000,MALE,Masters,farming-fishing,bungie-jumping,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,Columbus,9633 MLK Lane,3,YES,1,1,YES,Chevrolet,Malibu,N
+OH,250/500,MALE,MD,protective-serv,chess,wife,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Arlington,4981 Flute Hwy,1,NO,0,0,NO,Ford,Escape,Y
+IN,100/300,FEMALE,College,adm-clerical,dancing,own-child,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Northbrook,9078 Francis Ridge,1,NO,1,3,NO,Ford,Fusion,N
+IN,500/1000,FEMALE,Associate,other-service,hiking,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,Hillsdale,1381 Francis Ave,1,YES,0,0,NO,Dodge,RAM,N
+IN,500/1000,FEMALE,JD,protective-serv,hiking,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,VA,Columbus,6435 Texas Ave,4,NO,2,3,YES,Jeep,Grand Cherokee,N
+OH,100/300,FEMALE,PhD,exec-managerial,exercise,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Springfield,1248 MLK Ridge,1,NO,2,2,YES,Saab,92x,N
+IN,100/300,FEMALE,High School,exec-managerial,dancing,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Riverwood,3323 1st Lane,1,NO,2,0,YES,Toyota,Highlander,N
+IN,100/300,MALE,High School,craft-repair,movies,wife,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Columbus,6971 Best Ridge,3,NO,1,2,NO,Ford,Fusion,Y
+IN,250/500,MALE,JD,machine-op-inspct,camping,other-relative,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,Riverwood,7488 Lincoln Lane,3,YES,1,1,NO,Chevrolet,Malibu,N
+IL,250/500,MALE,College,craft-repair,camping,own-child,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,Springfield,9007 Francis Hwy,1,NO,1,3,YES,BMW,3 Series,N
+OH,100/300,MALE,JD,prof-specialty,movies,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Springfield,1491 Francis Ridge,3,NO,0,1,NO,Volkswagen,Jetta,N
+OH,250/500,FEMALE,JD,adm-clerical,paintball,own-child,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbrook,3659 Oak Lane,3,NO,0,2,YES,Jeep,Wrangler,N
+OH,500/1000,FEMALE,Masters,other-service,paintball,wife,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Northbend,4176 Britain Hwy,3,NO,2,3,NO,Dodge,RAM,N
+OH,250/500,MALE,JD,farming-fishing,board-games,not-in-family,Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,Springfield,5189 Francis Drive,1,NO,0,2,YES,Mercedes,ML350,Y
+OH,100/300,MALE,JD,tech-support,chess,wife,Single Vehicle Collision,Side Collision,Total Loss,Other,OH,Northbend,6515 Oak Lane,1,NO,1,0,NO,Chevrolet,Silverado,Y
+IN,100/300,MALE,PhD,other-service,skydiving,husband,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,Northbend,7168 Andromedia Ridge,1,YES,0,2,NO,Audi,A3,N
+OH,100/300,MALE,MD,other-service,dancing,wife,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,7954 Tree Ridge,1,NO,2,2,NO,BMW,M5,N
+OH,500/1000,MALE,High School,transport-moving,board-games,not-in-family,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Northbrook,1956 Apache St,3,YES,2,1,NO,Saab,93,Y
+IN,250/500,MALE,PhD,machine-op-inspct,polo,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,Arlington,9918 Andromedia Drive,2,YES,1,3,YES,Toyota,Highlander,N
+OH,500/1000,MALE,PhD,machine-op-inspct,camping,unmarried,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,Springfield,5499 Flute Ridge,1,NO,2,3,NO,Honda,Civic,Y
+IL,500/1000,MALE,High School,sales,base-jumping,own-child,Single Vehicle Collision,Front Collision,Total Loss,Other,NC,Riverwood,3311 2nd Drive,1,NO,2,0,YES,Ford,Fusion,N
+IL,250/500,MALE,Associate,protective-serv,movies,husband,Multi-vehicle Collision,Side Collision,Major Damage,Other,NC,Arlington,7609 Rock St,4,YES,2,0,NO,Audi,A5,N
+OH,500/1000,FEMALE,JD,farming-fishing,movies,other-relative,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,Hillsdale,4652 Flute Drive,2,YES,2,1,NO,Ford,Fusion,N
+OH,250/500,MALE,Masters,protective-serv,polo,unmarried,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Northbrook,6853 Sky Hwy,3,NO,0,1,NO,Toyota,Corolla,N
+IL,100/300,FEMALE,High School,priv-house-serv,exercise,wife,Parked Car,Rear Collision,Trivial Damage,Police,WV,Arlington,7780 Flute Lane,1,NO,1,2,NO,Nissan,Pathfinder,N
+IL,500/1000,MALE,MD,machine-op-inspct,yachting,wife,Vehicle Theft,Rear Collision,Minor Damage,None,OH,Springfield,1687 3rd Lane,1,NO,1,3,NO,Chevrolet,Malibu,N
+IN,100/300,MALE,College,sales,yachting,own-child,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Springfield,6378 Britain Ave,1,YES,1,3,YES,Volkswagen,Jetta,N
+IL,250/500,FEMALE,JD,exec-managerial,yachting,not-in-family,Multi-vehicle Collision,Front Collision,Major Damage,Other,SC,Columbus,1306 Andromedia St,2,NO,1,2,NO,Chevrolet,Tahoe,Y
+IN,250/500,MALE,Masters,other-service,skydiving,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,Northbrook,3664 Francis Ridge,1,NO,2,3,NO,Mercedes,ML350,N
+IL,500/1000,FEMALE,Associate,priv-house-serv,hiking,husband,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Springfield,5985 Lincoln Lane,2,NO,2,3,YES,Saab,93,N
+OH,100/300,FEMALE,College,handlers-cleaners,chess,husband,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,PA,Hillsdale,3706 4th Hwy,3,NO,2,1,YES,Ford,Escape,N
+IL,500/1000,FEMALE,Associate,armed-forces,yachting,not-in-family,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Arlington,6603 Francis Hwy,1,NO,2,1,NO,Honda,CRV,Y
+IN,100/300,FEMALE,College,machine-op-inspct,bungie-jumping,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,Northbrook,7069 4th Hwy,1,NO,2,0,NO,Chevrolet,Tahoe,N
+IN,500/1000,FEMALE,JD,craft-repair,polo,wife,Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,Northbrook,5093 Flute Lane,1,YES,1,1,NO,Toyota,Highlander,Y
+OH,250/500,MALE,High School,sales,sleeping,wife,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Hillsdale,5894 Flute Drive,3,NO,2,1,YES,Mercedes,ML350,N
+IN,100/300,MALE,JD,farming-fishing,exercise,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Police,NC,Springfield,8459 Apache Ave,1,YES,1,2,YES,Ford,Escape,N
+IL,100/300,FEMALE,College,prof-specialty,golf,other-relative,Parked Car,Rear Collision,Trivial Damage,Police,WV,Columbus,7447 Lincoln Ridge,1,NO,2,0,NO,Dodge,RAM,N
+IL,100/300,FEMALE,JD,priv-house-serv,chess,unmarried,Parked Car,Rear Collision,Trivial Damage,Police,PA,Springfield,1821 Andromedia Ridge,1,NO,2,1,NO,Mercedes,E400,Y
+IL,250/500,FEMALE,High School,sales,camping,other-relative,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Columbus,6859 Flute Ridge,3,NO,1,3,YES,Saab,92x,N
+OH,250/500,FEMALE,Masters,handlers-cleaners,bungie-jumping,other-relative,Multi-vehicle Collision,Front Collision,Major Damage,Police,WV,Northbrook,4175 Elm Ridge,3,NO,1,3,NO,Saab,93,N
+OH,250/500,MALE,High School,exec-managerial,cross-fit,other-relative,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,VA,Hillsdale,5007 Oak St,1,NO,1,2,NO,Nissan,Pathfinder,Y
+IN,100/300,MALE,Masters,machine-op-inspct,bungie-jumping,wife,Single Vehicle Collision,Front Collision,Minor Damage,Other,NC,Riverwood,5790 Flute Ridge,1,NO,2,0,NO,Ford,Escape,N
+IL,250/500,MALE,JD,sales,chess,own-child,Single Vehicle Collision,Rear Collision,Total Loss,Other,SC,Hillsdale,8704 Britain Lane,1,NO,2,1,NO,Volkswagen,Jetta,Y
+IN,250/500,FEMALE,Masters,adm-clerical,video-games,own-child,Vehicle Theft,Front Collision,Trivial Damage,Police,WV,Columbus,7816 MLK Lane,1,NO,2,3,NO,Toyota,Camry,N
+OH,100/300,MALE,JD,armed-forces,movies,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Hillsdale,3618 Maple Lane,2,NO,0,1,YES,Toyota,Highlander,N
+OH,100/300,MALE,High School,machine-op-inspct,reading,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Other,NY,Arlington,7705 Lincoln Drive,1,NO,1,0,NO,Accura,MDX,N
+OH,500/1000,FEMALE,Associate,priv-house-serv,golf,own-child,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,Springfield,8602 Washington Ridge,1,NO,0,3,NO,Audi,A3,N
+IN,250/500,FEMALE,Masters,exec-managerial,reading,wife,Parked Car,Rear Collision,Minor Damage,Police,NY,Springfield,2832 Andromedia Lane,1,YES,0,0,NO,Accura,RSX,N
+OH,100/300,FEMALE,MD,adm-clerical,polo,wife,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,Riverwood,9760 4th Hwy,4,NO,2,1,NO,Volkswagen,Jetta,N
+IL,250/500,MALE,Masters,priv-house-serv,dancing,wife,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,2509 Rock Drive,1,NO,2,0,YES,Dodge,Neon,N
+IN,100/300,MALE,Masters,machine-op-inspct,kayaking,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Northbrook,2063 Weaver St,3,NO,1,0,NO,Toyota,Corolla,N
+IL,250/500,MALE,MD,exec-managerial,kayaking,unmarried,Multi-vehicle Collision,Front Collision,Minor Damage,Other,WV,Columbus,3818 Texas Ridge,3,NO,2,1,NO,Chevrolet,Tahoe,N
+IL,250/500,FEMALE,Associate,adm-clerical,chess,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,Columbus,3929 Elm Ave,1,NO,1,2,YES,BMW,X5,N
+IN,250/500,MALE,High School,handlers-cleaners,board-games,not-in-family,Multi-vehicle Collision,Front Collision,Minor Damage,Police,SC,Northbrook,9911 Britain Lane,3,NO,0,2,YES,Volkswagen,Passat,N
+IL,100/300,MALE,MD,sales,yachting,wife,Parked Car,Rear Collision,Minor Damage,Police,NY,Northbend,3246 Britain Ridge,1,NO,0,1,NO,Toyota,Camry,N
+IL,250/500,MALE,High School,tech-support,paintball,other-relative,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Springfield,2696 Cherokee Ridge,3,NO,1,0,NO,Nissan,Pathfinder,N
+IN,500/1000,FEMALE,JD,transport-moving,board-games,unmarried,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Columbus,5249 4th Ave,2,NO,2,2,NO,Nissan,Maxima,Y
+IL,100/300,MALE,MD,tech-support,sleeping,husband,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Arlington,4721 Cherokee Hwy,2,NO,2,2,NO,Volkswagen,Passat,N
+OH,100/300,MALE,JD,farming-fishing,video-games,husband,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Springfield,8212 Flute Ridge,1,NO,1,0,NO,Jeep,Wrangler,N
+IL,100/300,FEMALE,Associate,machine-op-inspct,kayaking,own-child,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Springfield,3592 MLK Ridge,3,NO,0,3,NO,Saab,93,N
+OH,500/1000,FEMALE,MD,machine-op-inspct,chess,husband,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Hillsdale,6494 4th Ave,1,NO,0,0,NO,Volkswagen,Passat,Y
+OH,100/300,FEMALE,Masters,transport-moving,polo,own-child,Single Vehicle Collision,Side Collision,Minor Damage,Police,NY,Riverwood,6608 Apache Lane,1,NO,2,1,YES,Ford,F150,N
+OH,500/1000,MALE,MD,protective-serv,camping,wife,Parked Car,Rear Collision,Trivial Damage,Police,WV,Riverwood,1553 Lincoln St,1,NO,2,0,NO,Jeep,Grand Cherokee,N
+IL,500/1000,MALE,High School,machine-op-inspct,yachting,unmarried,Single Vehicle Collision,Rear Collision,Major Damage,Fire,VA,Hillsdale,7628 4th Lane,1,YES,1,1,NO,Saab,92x,Y
+OH,500/1000,MALE,Associate,sales,reading,not-in-family,Parked Car,Rear Collision,Minor Damage,None,SC,Riverwood,3028 5th St,1,YES,1,0,NO,Nissan,Ultima,N
+IN,100/300,FEMALE,MD,machine-op-inspct,hiking,own-child,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NC,Northbrook,8949 Rock Hwy,1,YES,1,1,NO,Mercedes,E400,N
+IL,100/300,MALE,Masters,sales,camping,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Springfield,9751 Tree St,4,YES,1,2,NO,Dodge,Neon,N
+IN,100/300,MALE,Associate,exec-managerial,base-jumping,husband,Parked Car,Rear Collision,Trivial Damage,Police,WV,Northbend,4702 Texas Drive,1,NO,0,2,NO,Toyota,Camry,N
+IN,250/500,FEMALE,JD,protective-serv,hiking,wife,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Riverwood,2757 4th Hwy,1,NO,2,3,YES,BMW,X6,Y
+IL,100/300,FEMALE,High School,craft-repair,chess,wife,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,Northbrook,6678 Weaver Drive,2,NO,0,2,YES,Ford,F150,Y
+IN,500/1000,FEMALE,MD,machine-op-inspct,kayaking,other-relative,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Columbus,8667 Weaver Lane,3,NO,2,1,NO,Chevrolet,Malibu,N
+OH,500/1000,FEMALE,Associate,prof-specialty,video-games,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,Springfield,4931 Maple Drive,2,NO,1,2,NO,Accura,MDX,N
+OH,500/1000,MALE,Masters,transport-moving,golf,not-in-family,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,Springfield,3808 5th Ave,1,NO,0,2,NO,Accura,MDX,N
+OH,100/300,FEMALE,MD,craft-repair,dancing,husband,Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,Columbus,1725 Solo Lane,1,YES,1,2,NO,Mercedes,E400,Y
+IL,500/1000,FEMALE,Masters,handlers-cleaners,bungie-jumping,husband,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,Arlington,8097 Maple Lane,1,YES,0,3,YES,Toyota,Camry,N
+OH,100/300,FEMALE,High School,craft-repair,chess,wife,Parked Car,Rear Collision,Trivial Damage,None,SC,Columbus,3320 5th Hwy,1,NO,0,2,YES,Chevrolet,Tahoe,Y
+OH,100/300,MALE,High School,craft-repair,polo,own-child,Vehicle Theft,Rear Collision,Minor Damage,Police,WV,Hillsdale,9573 2nd Ave,1,YES,2,1,YES,Saab,95,N
+IL,500/1000,MALE,Masters,craft-repair,dancing,unmarried,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Northbend,8336 1st Ridge,1,NO,0,2,NO,Suburu,Impreza,N
+OH,500/1000,FEMALE,PhD,priv-house-serv,chess,husband,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NC,Columbus,3998 4th Hwy,3,YES,1,0,NO,Audi,A3,Y
+IL,250/500,MALE,Associate,adm-clerical,video-games,not-in-family,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,Northbrook,3966 Oak Hwy,2,NO,1,1,NO,Nissan,Ultima,N
+OH,500/1000,FEMALE,Masters,armed-forces,movies,husband,Single Vehicle Collision,Side Collision,Total Loss,Police,NY,Riverwood,7601 Andromedia Lane,1,NO,2,3,YES,Dodge,RAM,N
+OH,100/300,FEMALE,JD,other-service,base-jumping,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,Hillsdale,5160 2nd Hwy,3,NO,0,3,NO,Suburu,Legacy,N
+IL,500/1000,FEMALE,High School,exec-managerial,golf,husband,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Springfield,3288 Tree Lane,1,NO,2,0,NO,Saab,92x,N
+IL,250/500,FEMALE,Masters,prof-specialty,paintball,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Police,NC,Hillsdale,5874 1st Hwy,1,NO,0,1,YES,Audi,A3,Y
+IL,250/500,MALE,College,armed-forces,bungie-jumping,wife,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,Riverwood,6467 Best Ave,1,NO,2,2,YES,Volkswagen,Jetta,N
+OH,100/300,FEMALE,MD,adm-clerical,golf,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Arlington,6309 5th Ave,3,YES,2,1,YES,Honda,CRV,N
+IN,250/500,MALE,High School,exec-managerial,yachting,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NY,Springfield,8212 Rock Ave,3,NO,2,3,NO,Dodge,Neon,N
+IL,500/1000,MALE,College,craft-repair,bungie-jumping,husband,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Riverwood,4107 MLK Ridge,1,NO,1,2,NO,Suburu,Forrestor,N
+OH,500/1000,MALE,Associate,other-service,base-jumping,other-relative,Parked Car,Rear Collision,Trivial Damage,None,NY,Arlington,4558 3rd Hwy,1,NO,0,2,NO,Honda,CRV,N
+IL,100/300,MALE,MD,tech-support,chess,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Columbus,1762 Maple Hwy,3,NO,0,2,NO,Dodge,RAM,Y
+IL,100/300,FEMALE,High School,transport-moving,cross-fit,other-relative,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Springfield,5532 Francis Lane,3,NO,0,2,NO,Ford,Escape,Y
+IN,100/300,FEMALE,College,handlers-cleaners,board-games,husband,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,6158 Sky Ridge,3,YES,1,1,NO,Jeep,Wrangler,N
+OH,500/1000,MALE,College,prof-specialty,yachting,wife,Multi-vehicle Collision,Front Collision,Major Damage,Other,SC,Northbend,9214 Elm Ridge,3,NO,2,1,NO,Audi,A5,Y
+OH,100/300,FEMALE,High School,adm-clerical,movies,husband,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,Riverwood,1833 Solo Ave,3,NO,1,3,YES,Jeep,Wrangler,N
+IN,500/1000,FEMALE,High School,craft-repair,golf,other-relative,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Columbus,1953 Sky Lane,1,NO,1,3,YES,Audi,A5,N
+OH,250/500,MALE,Associate,handlers-cleaners,kayaking,other-relative,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,Hillsdale,6834 1st Drive,1,YES,1,1,YES,Ford,F150,N
+OH,100/300,MALE,Associate,machine-op-inspct,yachting,other-relative,Vehicle Theft,Rear Collision,Trivial Damage,Police,SC,Arlington,9562 4th Ridge,1,NO,1,3,NO,Ford,F150,N
+IL,500/1000,MALE,High School,transport-moving,cross-fit,other-relative,Multi-vehicle Collision,Front Collision,Minor Damage,Other,NC,Riverwood,4835 Britain Ridge,3,NO,0,3,NO,Jeep,Grand Cherokee,Y
+OH,500/1000,FEMALE,Associate,machine-op-inspct,camping,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NC,Springfield,8548 Cherokee Ridge,1,NO,2,0,NO,Nissan,Maxima,N
+IL,250/500,MALE,JD,sales,video-games,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,Columbus,2352 MLK Drive,1,NO,0,3,YES,Suburu,Legacy,N
+IN,100/300,MALE,College,adm-clerical,sleeping,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,Northbrook,9734 2nd Ridge,3,NO,0,0,NO,Jeep,Wrangler,N
+OH,250/500,MALE,College,farming-fishing,skydiving,husband,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Springfield,3122 Apache Drive,1,YES,1,3,NO,Dodge,Neon,N
+OH,250/500,FEMALE,PhD,armed-forces,skydiving,not-in-family,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Northbend,9816 Britain St,3,YES,1,0,NO,Honda,CRV,N
+IL,100/300,FEMALE,High School,adm-clerical,reading,wife,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,Northbend,8214 Flute St,3,NO,0,1,NO,Saab,95,N
+OH,100/300,FEMALE,Masters,prof-specialty,paintball,wife,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Arlington,6259 Lincoln Hwy,1,NO,0,1,YES,Accura,TL,N
+OH,500/1000,MALE,Associate,priv-house-serv,chess,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Arlington,4492 Andromedia Ave,1,NO,2,1,NO,Mercedes,E400,Y
+IL,100/300,FEMALE,Masters,sales,paintball,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,Northbend,6179 3rd Ridge,3,NO,2,2,YES,BMW,X6,Y
+OH,250/500,MALE,JD,machine-op-inspct,hiking,husband,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Arlington,3799 Embaracadero Drive,1,YES,1,1,NO,Audi,A5,N
+IN,500/1000,MALE,Masters,machine-op-inspct,sleeping,not-in-family,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,Hillsdale,5071 1st Lane,1,NO,2,2,YES,Toyota,Camry,N
+OH,500/1000,MALE,JD,transport-moving,bungie-jumping,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Columbus,6574 4th Drive,3,NO,1,3,NO,Nissan,Maxima,N
+IN,100/300,FEMALE,MD,craft-repair,camping,wife,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,Hillsdale,2711 Britain Ave,3,NO,1,3,NO,Jeep,Wrangler,N
+IL,500/1000,MALE,Masters,sales,exercise,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Fire,SC,Hillsdale,4214 MLK Ridge,1,NO,0,3,NO,Ford,F150,N
+IN,100/300,FEMALE,Masters,other-service,dancing,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Northbend,7976 Britain Drive,3,YES,1,0,NO,Dodge,RAM,N
+IL,500/1000,FEMALE,College,farming-fishing,golf,wife,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,Northbend,4995 Weaver Ridge,1,NO,0,1,NO,Dodge,Neon,N
+OH,250/500,MALE,College,adm-clerical,polo,wife,Vehicle Theft,Front Collision,Trivial Damage,None,VA,Northbend,1515 Embaracadero St,1,NO,1,1,YES,Toyota,Corolla,N
+IL,250/500,MALE,High School,tech-support,exercise,other-relative,Vehicle Theft,Rear Collision,Trivial Damage,Police,SC,Hillsdale,2968 Andromedia Ave,1,NO,0,2,NO,Jeep,Wrangler,N
+OH,100/300,MALE,MD,adm-clerical,sleeping,own-child,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Arlington,9236 2nd Hwy,3,YES,2,0,NO,Saab,93,N
+IN,500/1000,MALE,JD,other-service,paintball,husband,Parked Car,Front Collision,Trivial Damage,None,NY,Arlington,9639 Britain Ridge,1,YES,1,2,NO,Saab,93,N
+IL,500/1000,FEMALE,High School,machine-op-inspct,reading,wife,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,Columbus,9422 Washington Ridge,3,NO,0,2,NO,Ford,Escape,N
+OH,100/300,FEMALE,Masters,farming-fishing,camping,own-child,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,Riverwood,1213 4th Lane,3,NO,2,2,NO,Dodge,Neon,N
+IN,100/300,MALE,MD,machine-op-inspct,hiking,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,Hillsdale,3872 5th Drive,1,NO,2,2,YES,Accura,TL,N
+IL,250/500,MALE,Associate,armed-forces,polo,unmarried,Parked Car,Rear Collision,Trivial Damage,Police,NC,Springfield,9397 5th Hwy,1,YES,0,0,NO,Honda,CRV,N
+OH,500/1000,MALE,JD,other-service,skydiving,other-relative,Parked Car,Front Collision,Trivial Damage,Police,SC,Northbend,8876 1st St,1,NO,0,3,NO,Volkswagen,Passat,N
+OH,250/500,MALE,High School,handlers-cleaners,chess,wife,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NC,Hillsdale,3397 5th Ave,4,NO,0,0,NO,Saab,92x,Y
+IN,250/500,MALE,College,prof-specialty,reading,wife,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Hillsdale,3263 Pine Ridge,1,YES,1,3,NO,Accura,MDX,Y
+OH,500/1000,MALE,Masters,priv-house-serv,polo,wife,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,Columbus,8639 5th Hwy,1,NO,2,0,YES,Chevrolet,Silverado,N
+IN,250/500,FEMALE,High School,tech-support,golf,husband,Parked Car,Rear Collision,Trivial Damage,None,NY,Riverwood,5743 4th Ridge,1,NO,0,1,NO,Saab,92x,N
+IL,250/500,MALE,JD,transport-moving,video-games,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,Springfield,3555 Francis Ridge,3,NO,0,2,NO,Saab,95,N
+IN,250/500,MALE,High School,exec-managerial,bungie-jumping,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbend,4939 Oak Lane,3,YES,1,3,YES,Audi,A5,N
+OH,100/300,MALE,PhD,armed-forces,sleeping,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Riverwood,3100 Best St,1,NO,2,3,NO,Saab,92x,N
+IL,250/500,FEMALE,PhD,handlers-cleaners,skydiving,own-child,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Riverwood,3029 5th Ave,1,YES,2,2,NO,BMW,X6,N
+IL,250/500,FEMALE,High School,tech-support,movies,other-relative,Single Vehicle Collision,Front Collision,Major Damage,Police,WV,Columbus,8941 Solo Ridge,1,NO,0,2,NO,BMW,X6,Y
+IN,250/500,MALE,JD,prof-specialty,paintball,husband,Parked Car,Rear Collision,Minor Damage,Police,WV,Northbrook,4447 Francis Hwy,1,YES,1,1,NO,Jeep,Grand Cherokee,N
+OH,250/500,MALE,PhD,machine-op-inspct,kayaking,husband,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbrook,7701 Tree St,3,NO,2,0,YES,Ford,Escape,N
+OH,100/300,FEMALE,High School,protective-serv,reading,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,Springfield,4653 Pine St,3,NO,0,0,YES,Audi,A3,N
+OH,250/500,FEMALE,Masters,farming-fishing,movies,wife,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Riverwood,8742 4th St,1,NO,2,1,NO,Honda,Accord,N
+OH,250/500,MALE,College,transport-moving,kayaking,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,Hillsdale,7316 Texas Ave,1,NO,2,1,YES,Volkswagen,Jetta,N
+OH,250/500,FEMALE,Associate,tech-support,sleeping,unmarried,Single Vehicle Collision,Rear Collision,Major Damage,Other,VA,Arlington,2950 MLK Ave,1,NO,2,3,NO,Nissan,Maxima,N
+IN,500/1000,FEMALE,Associate,other-service,reading,husband,Vehicle Theft,Rear Collision,Trivial Damage,Police,SC,Springfield,8233 Tree Drive,1,YES,1,0,NO,Mercedes,E400,N
+OH,250/500,FEMALE,Masters,transport-moving,video-games,husband,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,Arlington,4642 Rock Ridge,3,YES,2,2,NO,Saab,95,Y
+IL,250/500,FEMALE,MD,tech-support,paintball,husband,Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,Arlington,7733 Britain Lane,2,NO,2,1,NO,BMW,M5,Y
+OH,250/500,FEMALE,Associate,exec-managerial,base-jumping,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,Hillsdale,2753 Cherokee Ave,4,NO,2,1,NO,Mercedes,E400,Y
+IL,500/1000,MALE,High School,tech-support,camping,wife,Parked Car,Rear Collision,Minor Damage,None,NY,Springfield,3995 Lincoln Hwy,1,YES,1,3,NO,Volkswagen,Passat,N
+IL,250/500,MALE,High School,sales,cross-fit,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Columbus,4095 MLK St,3,NO,1,1,NO,Mercedes,ML350,Y
+IL,500/1000,FEMALE,Masters,machine-op-inspct,exercise,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,Northbend,5782 Rock Drive,3,YES,1,3,NO,Chevrolet,Malibu,Y
+IN,250/500,FEMALE,JD,tech-support,cross-fit,unmarried,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Columbus,2900 Sky Drive,1,YES,0,0,NO,Accura,MDX,Y
+IN,500/1000,FEMALE,Masters,handlers-cleaners,movies,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Riverwood,1515 Pine Lane,1,YES,2,3,YES,Nissan,Ultima,N
+OH,100/300,FEMALE,High School,farming-fishing,chess,husband,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Arlington,4876 Washington Drive,1,YES,0,2,NO,Ford,Escape,Y
+OH,100/300,FEMALE,MD,priv-house-serv,video-games,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Hillsdale,5779 2nd Lane,3,NO,1,3,NO,Dodge,RAM,Y
+OH,100/300,MALE,College,handlers-cleaners,chess,husband,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,Columbus,6706 Francis Drive,1,NO,1,2,NO,Volkswagen,Jetta,Y
+IN,500/1000,MALE,Associate,other-service,exercise,other-relative,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,Springfield,6384 5th Ridge,1,NO,1,0,NO,Ford,F150,Y
+IL,250/500,MALE,JD,protective-serv,base-jumping,own-child,Parked Car,Rear Collision,Minor Damage,None,SC,Riverwood,3006 Lincoln Ridge,1,NO,2,1,NO,Jeep,Wrangler,N
+OH,250/500,FEMALE,MD,protective-serv,chess,own-child,Multi-vehicle Collision,Side Collision,Major Damage,Other,PA,Hillsdale,5352 Lincoln Drive,3,NO,1,3,NO,Saab,92x,Y
+OH,500/1000,MALE,High School,transport-moving,reading,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,Riverwood,6110 Rock Ridge,1,NO,2,1,NO,Chevrolet,Tahoe,Y
+IL,500/1000,FEMALE,Masters,handlers-cleaners,paintball,wife,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Columbus,7797 Tree Ridge,1,YES,0,2,NO,Mercedes,E400,N
+IN,250/500,MALE,College,prof-specialty,hiking,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,Springfield,4910 1st Lane,3,YES,2,3,YES,Chevrolet,Silverado,Y
+OH,100/300,MALE,MD,prof-specialty,basketball,wife,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,Columbus,8766 Lincoln Lane,1,NO,2,2,YES,Dodge,Neon,N
+OH,500/1000,MALE,Masters,priv-house-serv,golf,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbrook,6399 Oak Drive,3,NO,0,3,YES,Accura,TL,N
+OH,250/500,FEMALE,Masters,exec-managerial,exercise,husband,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,Northbend,3127 Flute St,1,YES,0,0,YES,Audi,A3,N
+IN,250/500,MALE,Associate,prof-specialty,golf,own-child,Vehicle Theft,Front Collision,Trivial Damage,Police,PA,Northbend,8920 Best Ave,1,NO,1,0,YES,Volkswagen,Jetta,N
+IN,500/1000,MALE,Associate,craft-repair,dancing,own-child,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Northbrook,7314 Tree Drive,1,YES,0,0,NO,Dodge,RAM,N
+OH,100/300,MALE,Masters,sales,kayaking,other-relative,Parked Car,Rear Collision,Trivial Damage,None,NY,Riverwood,8872 Oak Ridge,1,NO,1,3,YES,Dodge,RAM,N
+OH,100/300,FEMALE,Associate,handlers-cleaners,polo,unmarried,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,WV,Riverwood,5022 1st St,1,YES,2,1,NO,Suburu,Forrestor,Y
+OH,500/1000,MALE,Associate,prof-specialty,base-jumping,other-relative,Parked Car,Rear Collision,Minor Damage,Police,OH,Columbus,3423 Francis Ave,1,NO,2,3,NO,Accura,MDX,N
+IL,250/500,MALE,PhD,prof-specialty,kayaking,other-relative,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Columbus,9529 4th Drive,3,NO,0,0,YES,Chevrolet,Tahoe,N
+OH,250/500,FEMALE,College,tech-support,movies,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,Northbrook,1818 Tree St,3,NO,2,0,YES,Dodge,Neon,N
+OH,250/500,MALE,PhD,adm-clerical,sleeping,unmarried,Parked Car,Rear Collision,Minor Damage,None,NC,Northbend,4431 Rock St,1,NO,1,3,YES,Chevrolet,Tahoe,N
+IN,500/1000,MALE,JD,farming-fishing,polo,not-in-family,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,Northbend,4782 Sky Lane,1,YES,0,1,YES,Suburu,Legacy,Y
+IL,250/500,FEMALE,College,protective-serv,cross-fit,other-relative,Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,Northbrook,7112 Weaver Ave,1,NO,2,3,NO,Chevrolet,Silverado,Y
+IN,100/300,FEMALE,College,farming-fishing,camping,own-child,Single Vehicle Collision,Front Collision,Major Damage,Fire,WV,Hillsdale,4020 Best Drive,1,NO,1,0,YES,Suburu,Legacy,Y
+IN,250/500,FEMALE,MD,prof-specialty,camping,husband,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Riverwood,2037 5th Drive,1,NO,0,0,NO,Suburu,Forrestor,N
+IN,100/300,FEMALE,High School,transport-moving,polo,other-relative,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Northbrook,4699 Texas Ridge,1,NO,2,2,YES,Toyota,Highlander,N
+OH,250/500,FEMALE,Associate,prof-specialty,bungie-jumping,husband,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Riverwood,1832 Elm Hwy,1,YES,2,3,NO,Saab,92x,N
+IN,250/500,FEMALE,PhD,craft-repair,skydiving,wife,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,Columbus,5226 Maple St,1,NO,0,1,NO,Dodge,RAM,N
+IN,250/500,MALE,JD,adm-clerical,basketball,husband,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,Hillsdale,3771 4th St,1,NO,2,1,NO,Accura,RSX,N
+IL,100/300,FEMALE,MD,exec-managerial,exercise,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Fire,WV,Northbend,8701 5th Lane,3,NO,1,1,NO,Jeep,Wrangler,N
+OH,100/300,MALE,JD,other-service,dancing,unmarried,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Hillsdale,7574 4th St,3,NO,2,1,NO,Volkswagen,Jetta,N
+IL,500/1000,FEMALE,High School,exec-managerial,exercise,husband,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,Riverwood,1989 Solo Lane,3,NO,2,3,YES,Nissan,Pathfinder,N
+OH,500/1000,FEMALE,College,prof-specialty,kayaking,own-child,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Springfield,6331 MLK Ave,1,NO,0,0,YES,Honda,Civic,N
+IN,100/300,MALE,Associate,sales,camping,not-in-family,Vehicle Theft,Front Collision,Minor Damage,None,WV,Riverwood,8453 Elm St,1,YES,0,3,NO,Chevrolet,Malibu,N
+IN,250/500,FEMALE,MD,craft-repair,reading,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,WV,Riverwood,1422 Flute Ave,3,NO,1,3,NO,Suburu,Legacy,N
+OH,250/500,MALE,College,adm-clerical,golf,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Other,NC,Columbus,5058 4th Lane,1,NO,1,2,NO,BMW,X5,N
+IN,250/500,MALE,PhD,machine-op-inspct,board-games,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,Springfield,3098 Oak Lane,3,NO,2,1,YES,Volkswagen,Passat,Y
+IN,500/1000,MALE,PhD,exec-managerial,hiking,husband,Multi-vehicle Collision,Front Collision,Major Damage,Other,SC,Arlington,9103 MLK Lane,3,YES,2,2,YES,Toyota,Highlander,Y
+IN,250/500,MALE,MD,sales,yachting,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Arlington,8624 Francis Ave,4,NO,0,2,NO,Dodge,RAM,Y
+IL,100/300,MALE,Masters,exec-managerial,reading,unmarried,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,Riverwood,2905 Embaracadero Drive,3,NO,2,3,NO,Mercedes,C300,Y
+OH,250/500,FEMALE,PhD,armed-forces,bungie-jumping,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Springfield,3443 Maple Ridge,3,YES,0,3,NO,Audi,A3,N
+IL,500/1000,FEMALE,MD,sales,skydiving,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Northbend,1618 Maple Hwy,3,NO,1,1,YES,Dodge,RAM,N
+IL,100/300,FEMALE,College,machine-op-inspct,cross-fit,husband,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,Northbrook,3751 Tree Hwy,3,YES,0,3,NO,Jeep,Wrangler,N
+IL,100/300,FEMALE,MD,tech-support,kayaking,wife,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,Northbrook,6848 Elm Hwy,1,NO,0,1,NO,Ford,F150,N
+OH,500/1000,FEMALE,Associate,priv-house-serv,movies,not-in-family,Vehicle Theft,Rear Collision,Minor Damage,Police,WV,Northbrook,4237 4th St,1,NO,2,1,NO,Mercedes,E400,N
+IL,100/300,FEMALE,PhD,handlers-cleaners,movies,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,Columbus,6581 Rock Ridge,1,NO,0,0,YES,Accura,TL,N
+IL,250/500,MALE,PhD,machine-op-inspct,golf,unmarried,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,Northbend,7236 Apache Lane,4,YES,0,2,NO,Chevrolet,Tahoe,N
+IN,100/300,MALE,JD,sales,movies,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,Columbus,3846 4th Hwy,3,NO,1,1,YES,Mercedes,E400,N
+IN,100/300,FEMALE,MD,protective-serv,hiking,unmarried,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,Springfield,5028 Maple Ridge,3,YES,2,0,NO,Nissan,Maxima,N
+IL,100/300,MALE,High School,machine-op-inspct,cross-fit,wife,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Springfield,7426 Rock Drive,3,NO,0,0,NO,Dodge,Neon,N
+IL,500/1000,MALE,Masters,prof-specialty,yachting,husband,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Columbus,5771 Best St,1,NO,2,3,YES,Jeep,Wrangler,N
+OH,250/500,MALE,College,machine-op-inspct,basketball,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Fire,SC,Springfield,9818 Cherokee Ave,1,YES,2,3,NO,Accura,MDX,N
+IN,250/500,MALE,High School,prof-specialty,bungie-jumping,wife,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,Arlington,7819 2nd Ave,1,NO,0,2,NO,Saab,93,N
+OH,250/500,FEMALE,Associate,protective-serv,hiking,not-in-family,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Northbrook,1331 Elm Ridge,1,NO,0,3,NO,Nissan,Maxima,N
+OH,250/500,FEMALE,Masters,armed-forces,kayaking,unmarried,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,Hillsdale,9240 Britain Ave,3,NO,2,1,NO,Nissan,Maxima,N
+IL,100/300,MALE,College,protective-serv,paintball,wife,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,Arlington,6668 Andromedia Ridge,3,YES,0,3,NO,Jeep,Wrangler,Y
+IL,100/300,MALE,PhD,craft-repair,basketball,wife,Multi-vehicle Collision,Rear Collision,Major Damage,Other,NY,Columbus,5276 2nd Lane,3,NO,2,1,NO,Jeep,Wrangler,Y
+IN,500/1000,FEMALE,College,adm-clerical,paintball,wife,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Arlington,2889 Weaver St,3,NO,0,2,YES,Volkswagen,Passat,Y
+IN,500/1000,FEMALE,High School,handlers-cleaners,basketball,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Arlington,1879 4th Lane,3,YES,1,3,NO,Mercedes,C300,N
+OH,100/300,FEMALE,JD,adm-clerical,hiking,own-child,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Columbus,5499 Elm Hwy,1,NO,2,0,YES,Suburu,Forrestor,N
+IL,500/1000,FEMALE,JD,prof-specialty,sleeping,other-relative,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,Riverwood,8822 Sky St,3,YES,2,1,NO,Suburu,Impreza,N
+IL,100/300,FEMALE,MD,transport-moving,movies,husband,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Columbus,4254 Best Ridge,3,YES,0,0,NO,Jeep,Wrangler,N
+IL,100/300,FEMALE,High School,adm-clerical,reading,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,Springfield,5812 Weaver Ave,1,YES,2,0,YES,Suburu,Forrestor,N
+IL,100/300,MALE,JD,armed-forces,movies,other-relative,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Northbrook,7155 Apache Drive,3,NO,2,1,YES,Audi,A5,N
+IL,250/500,FEMALE,JD,prof-specialty,video-games,own-child,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,1376 Pine St,3,NO,1,0,NO,Volkswagen,Jetta,N
+IN,100/300,MALE,PhD,transport-moving,polo,husband,Single Vehicle Collision,Side Collision,Minor Damage,Fire,VA,Northbrook,3340 3rd Hwy,1,NO,1,1,NO,Chevrolet,Silverado,N
+OH,500/1000,FEMALE,MD,tech-support,hiking,own-child,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,Northbend,3097 4th Drive,1,NO,1,3,YES,Toyota,Highlander,N
+IN,250/500,FEMALE,College,farming-fishing,paintball,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Northbrook,1916 Elm St,3,YES,0,1,YES,Saab,93,N
+IL,250/500,MALE,High School,machine-op-inspct,yachting,husband,Multi-vehicle Collision,Side Collision,Minor Damage,Police,WV,Arlington,8917 Cherokee Lane,4,NO,1,0,YES,Toyota,Camry,N
+IN,100/300,FEMALE,MD,tech-support,kayaking,not-in-family,Parked Car,Rear Collision,Trivial Damage,Police,WV,Northbrook,8492 Weaver Hwy,1,YES,1,2,NO,Audi,A3,N
+IN,100/300,FEMALE,High School,protective-serv,bungie-jumping,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Columbus,3753 Francis Lane,1,NO,2,1,NO,Volkswagen,Passat,N
+IN,100/300,FEMALE,JD,sales,skydiving,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NC,Springfield,4545 4th Ridge,3,NO,0,0,YES,Dodge,Neon,N
+IL,100/300,MALE,PhD,priv-house-serv,exercise,not-in-family,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Springfield,2272 Embaracadero Drive,3,YES,2,2,YES,Volkswagen,Jetta,N
+IN,500/1000,FEMALE,High School,tech-support,skydiving,wife,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NC,Hillsdale,5341 5th Ave,3,NO,2,1,NO,Nissan,Ultima,N
+IN,250/500,FEMALE,Masters,handlers-cleaners,dancing,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,Hillsdale,7745 Washington Ridge,1,NO,1,2,YES,Suburu,Legacy,N
+IN,100/300,FEMALE,MD,armed-forces,video-games,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NC,Riverwood,1275 4th Ridge,1,NO,0,3,NO,Dodge,RAM,N
+OH,500/1000,FEMALE,Associate,tech-support,board-games,other-relative,Vehicle Theft,Rear Collision,Minor Damage,None,NY,Springfield,4857 Weaver St,1,NO,0,1,NO,Chevrolet,Malibu,N
+IL,250/500,MALE,PhD,other-service,bungie-jumping,husband,Parked Car,Rear Collision,Trivial Damage,None,NY,Hillsdale,8211 Sky Hwy,1,NO,0,1,NO,Nissan,Ultima,N
+IL,500/1000,FEMALE,MD,machine-op-inspct,chess,wife,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Columbus,8617 Best Ave,3,NO,0,0,YES,BMW,X5,Y
+IN,100/300,MALE,Associate,machine-op-inspct,cross-fit,husband,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Columbus,9856 Apache St,3,YES,2,1,NO,Ford,Fusion,Y
+IL,500/1000,MALE,College,priv-house-serv,dancing,unmarried,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Northbend,1951 Best Ave,4,YES,0,0,NO,Toyota,Camry,N
+IN,500/1000,MALE,College,adm-clerical,board-games,husband,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,Riverwood,1824 5th Lane,3,NO,1,2,NO,Dodge,Neon,N
+IL,250/500,FEMALE,College,tech-support,hiking,wife,Single Vehicle Collision,Front Collision,Major Damage,Fire,OH,Springfield,7393 Washington St,1,YES,2,1,YES,Honda,Civic,Y
+IN,100/300,FEMALE,JD,sales,reading,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,Arlington,1386 Britain St,1,NO,0,0,YES,Volkswagen,Passat,N
+OH,250/500,MALE,Masters,tech-support,paintball,other-relative,Parked Car,Rear Collision,Trivial Damage,None,SC,Northbrook,7928 Maple Ridge,1,YES,2,1,YES,Nissan,Pathfinder,N
+IL,500/1000,FEMALE,Associate,prof-specialty,cross-fit,husband,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,Northbend,1546 Cherokee Ave,1,YES,0,2,NO,BMW,X6,Y
+OH,100/300,MALE,High School,armed-forces,exercise,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Police,VA,Riverwood,2003 2nd Hwy,3,YES,0,3,NO,Suburu,Legacy,N
+IN,100/300,FEMALE,Masters,farming-fishing,kayaking,wife,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NY,Columbus,9418 5th Hwy,1,YES,0,1,NO,Toyota,Camry,N
+IL,250/500,MALE,College,transport-moving,hiking,not-in-family,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,8770 1st Lane,3,NO,2,0,NO,Saab,95,N
+IN,250/500,MALE,MD,adm-clerical,movies,unmarried,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Columbus,1087 Flute Drive,3,NO,0,3,YES,Jeep,Grand Cherokee,N
+IN,100/300,MALE,Masters,machine-op-inspct,reading,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,Hillsdale,2217 Tree Lane,1,NO,2,3,NO,Mercedes,E400,Y
+OH,250/500,FEMALE,PhD,craft-repair,paintball,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NC,Northbrook,6741 Oak Ridge,1,YES,0,1,YES,Toyota,Corolla,N
+OH,250/500,FEMALE,High School,armed-forces,yachting,unmarried,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,Northbrook,2123 MLK Ridge,1,NO,2,0,NO,Toyota,Camry,N
+IN,500/1000,FEMALE,MD,armed-forces,dancing,own-child,Parked Car,Front Collision,Trivial Damage,None,VA,Hillsdale,4390 4th Drive,1,YES,0,1,YES,Audi,A3,N
+IL,250/500,MALE,College,transport-moving,video-games,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Arlington,1437 3rd Lane,1,YES,0,3,NO,Accura,MDX,N
+IN,250/500,FEMALE,JD,armed-forces,kayaking,not-in-family,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Riverwood,1186 Rock St,3,NO,2,0,YES,Chevrolet,Tahoe,N
+IN,250/500,FEMALE,College,prof-specialty,basketball,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,Arlington,4394 Oak St,1,NO,2,2,NO,Chevrolet,Malibu,N
+IN,250/500,FEMALE,Masters,machine-op-inspct,chess,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Arlington,8368 Cherokee Ave,1,YES,1,0,YES,Volkswagen,Jetta,Y
+OH,250/500,MALE,MD,craft-repair,base-jumping,unmarried,Parked Car,Rear Collision,Trivial Damage,None,WV,Arlington,4905 Best Lane,1,YES,2,3,YES,Toyota,Camry,N
+IN,500/1000,MALE,Masters,machine-op-inspct,kayaking,own-child,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Hillsdale,3618 Sky Ave,1,NO,0,1,NO,Saab,95,N
+IN,250/500,MALE,College,prof-specialty,dancing,wife,Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,Arlington,5459 MLK Ave,1,YES,0,1,YES,Nissan,Pathfinder,N
+IN,250/500,FEMALE,JD,protective-serv,dancing,unmarried,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Springfield,1371 Texas Lane,3,NO,2,3,NO,Audi,A3,N
+IL,250/500,FEMALE,JD,protective-serv,base-jumping,other-relative,Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,Northbend,2654 Embaracadero St,1,NO,1,2,NO,Audi,A3,N
+IN,250/500,MALE,Associate,other-service,bungie-jumping,husband,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,Northbend,2123 Texas Ave,1,NO,2,3,NO,Saab,93,Y
+IL,500/1000,FEMALE,PhD,handlers-cleaners,kayaking,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,Northbend,4538 Flute Hwy,3,NO,0,2,YES,Ford,Fusion,N
+OH,250/500,FEMALE,Masters,protective-serv,dancing,husband,Vehicle Theft,Front Collision,Minor Damage,None,WV,Arlington,4434 Weaver St,1,NO,0,3,YES,Chevrolet,Malibu,N
+IN,250/500,FEMALE,Masters,transport-moving,cross-fit,not-in-family,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,Hillsdale,2798 1st Ave,1,NO,2,0,YES,Accura,MDX,Y
+OH,500/1000,FEMALE,MD,prof-specialty,video-games,husband,Vehicle Theft,Rear Collision,Minor Damage,None,WV,Springfield,2809 Francis Lane,1,NO,1,2,NO,Accura,MDX,N
+IL,500/1000,FEMALE,Masters,tech-support,dancing,own-child,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,VA,Riverwood,7281 Oak St,3,NO,0,1,YES,Nissan,Maxima,N
+IN,250/500,FEMALE,PhD,craft-repair,camping,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,Arlington,9878 Washington Ave,1,NO,0,1,NO,Volkswagen,Passat,N
+IL,100/300,FEMALE,College,adm-clerical,bungie-jumping,wife,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Columbus,2537 5th Ave,4,NO,0,0,NO,Nissan,Pathfinder,N
+IN,100/300,MALE,High School,exec-managerial,paintball,husband,Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,Columbus,8493 Apache Drive,1,NO,1,1,NO,Ford,Fusion,Y
+IL,250/500,MALE,College,prof-specialty,paintball,wife,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Northbend,2878 Britain Hwy,1,YES,2,0,NO,Chevrolet,Malibu,N
+IN,250/500,MALE,High School,prof-specialty,camping,husband,Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,Columbus,2862 Tree Ridge,1,YES,0,3,NO,Dodge,RAM,N
+IL,250/500,MALE,High School,other-service,basketball,own-child,Vehicle Theft,Rear Collision,Trivial Damage,None,VA,Hillsdale,4453 Best Ave,1,NO,0,0,NO,Audi,A5,N
+IN,500/1000,FEMALE,PhD,machine-op-inspct,polo,not-in-family,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,Arlington,5191 4th St,3,NO,0,0,NO,Nissan,Pathfinder,N
+OH,250/500,MALE,JD,craft-repair,camping,not-in-family,Single Vehicle Collision,Front Collision,Minor Damage,Police,WV,Northbend,1364 Best St,1,NO,2,3,YES,Honda,Civic,N
+OH,500/1000,FEMALE,PhD,prof-specialty,basketball,not-in-family,Single Vehicle Collision,Front Collision,Major Damage,Police,NC,Northbrook,8946 2nd Drive,1,NO,2,2,YES,Volkswagen,Jetta,Y
+IN,250/500,FEMALE,MD,craft-repair,kayaking,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,Riverwood,3726 MLK Hwy,1,YES,1,1,NO,Ford,F150,N
+IL,100/300,FEMALE,JD,transport-moving,skydiving,husband,Single Vehicle Collision,Front Collision,Total Loss,Police,SC,Riverwood,2820 Britain St,1,NO,1,1,NO,Volkswagen,Passat,N
+OH,500/1000,FEMALE,PhD,priv-house-serv,movies,own-child,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Arlington,2646 MLK Drive,1,NO,0,1,NO,Suburu,Impreza,N
+OH,250/500,FEMALE,MD,priv-house-serv,paintball,husband,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Riverwood,6256 Elm St,3,NO,1,1,NO,Suburu,Forrestor,N
+OH,250/500,FEMALE,Associate,prof-specialty,golf,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Riverwood,9724 Maple St,3,NO,2,2,NO,Audi,A5,N
+OH,250/500,MALE,Masters,protective-serv,chess,unmarried,Multi-vehicle Collision,Side Collision,Total Loss,Other,NC,Riverwood,7397 4th Drive,3,YES,2,3,NO,Jeep,Wrangler,Y
+IL,500/1000,FEMALE,MD,adm-clerical,hiking,own-child,Single Vehicle Collision,Side Collision,Total Loss,Police,PA,Northbrook,3488 Flute Lane,1,NO,2,0,NO,Dodge,Neon,N
+IL,250/500,MALE,JD,exec-managerial,movies,other-relative,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,Hillsdale,9082 3rd Lane,3,YES,2,0,NO,Audi,A5,Y
+IN,250/500,FEMALE,JD,prof-specialty,paintball,own-child,Vehicle Theft,Rear Collision,Minor Damage,None,VA,Arlington,1941 5th Ridge,1,YES,1,3,YES,Nissan,Pathfinder,N
+IN,250/500,FEMALE,JD,machine-op-inspct,skydiving,other-relative,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,Northbend,5333 MLK Lane,4,NO,0,1,NO,Ford,F150,N
+OH,250/500,MALE,PhD,other-service,reading,wife,Vehicle Theft,Front Collision,Minor Damage,Police,SC,Riverwood,4577 Sky Hwy,1,YES,1,1,YES,Suburu,Legacy,N
+IN,500/1000,MALE,JD,other-service,basketball,wife,Vehicle Theft,Rear Collision,Minor Damage,None,NC,Northbrook,4814 Lincoln Lane,1,NO,0,2,NO,Mercedes,ML350,N
+IN,100/300,FEMALE,JD,transport-moving,kayaking,other-relative,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,Northbend,2381 1st Hwy,1,NO,0,1,YES,Nissan,Pathfinder,N
+IL,100/300,FEMALE,PhD,machine-op-inspct,golf,other-relative,Vehicle Theft,Front Collision,Trivial Damage,None,NC,Arlington,6939 3rd Hwy,1,NO,0,3,YES,Audi,A5,Y
+OH,250/500,FEMALE,PhD,armed-forces,movies,husband,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Arlington,5269 Flute Hwy,3,YES,1,1,NO,BMW,M5,Y
+OH,250/500,MALE,Associate,protective-serv,reading,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,Northbrook,7197 2nd Drive,1,NO,2,2,YES,Dodge,Neon,N
+OH,100/300,FEMALE,High School,farming-fishing,golf,own-child,Parked Car,Rear Collision,Trivial Damage,None,SC,Arlington,1741 Best Ridge,1,NO,0,3,NO,Chevrolet,Malibu,N
+OH,500/1000,MALE,JD,craft-repair,reading,unmarried,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Northbrook,9148 4th Hwy,3,NO,1,0,YES,Saab,95,N
+IN,500/1000,FEMALE,JD,tech-support,reading,husband,Vehicle Theft,Rear Collision,Minor Damage,Police,WV,Springfield,4279 Solo Drive,1,NO,2,1,NO,BMW,X5,N
+IL,500/1000,MALE,Masters,protective-serv,camping,wife,Multi-vehicle Collision,Front Collision,Major Damage,Other,NY,Springfield,9177 Texas Ave,3,NO,0,2,NO,Toyota,Corolla,Y
+OH,500/1000,FEMALE,Associate,prof-specialty,video-games,own-child,Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,Northbrook,5969 Francis St,3,NO,1,3,NO,Jeep,Wrangler,N
+IN,500/1000,FEMALE,Masters,armed-forces,chess,own-child,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Columbus,9942 Tree Ave,3,NO,0,1,NO,Ford,Fusion,Y
+IN,100/300,MALE,Associate,priv-house-serv,golf,not-in-family,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,Hillsdale,5474 Weaver Hwy,1,NO,0,3,NO,Toyota,Corolla,N
+OH,500/1000,FEMALE,Associate,sales,base-jumping,not-in-family,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,Riverwood,1102 Apache Hwy,3,YES,1,3,NO,Jeep,Wrangler,N
+IN,100/300,MALE,MD,craft-repair,board-games,own-child,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Springfield,9214 Texas Drive,1,YES,1,2,YES,Volkswagen,Jetta,Y
+IL,250/500,MALE,Associate,priv-house-serv,bungie-jumping,wife,Parked Car,Rear Collision,Trivial Damage,Police,NC,Northbend,8991 Texas Hwy,1,NO,0,3,NO,Saab,93,N
+IN,100/300,MALE,Associate,prof-specialty,golf,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,Hillsdale,9580 MLK Ave,3,YES,2,0,YES,Accura,RSX,N
+OH,250/500,MALE,MD,farming-fishing,video-games,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Northbend,5868 Best Drive,1,NO,1,2,NO,Audi,A5,Y
+OH,500/1000,FEMALE,MD,exec-managerial,polo,wife,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,Northbend,5318 5th Ave,3,NO,2,3,NO,Mercedes,ML350,N
+OH,100/300,MALE,Associate,handlers-cleaners,chess,husband,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Hillsdale,7502 Rock Lane,1,NO,1,3,YES,Nissan,Pathfinder,N
+IN,500/1000,FEMALE,College,machine-op-inspct,golf,wife,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,Northbrook,4627 Elm Ridge,3,NO,2,2,NO,Saab,95,N
+IN,250/500,MALE,High School,armed-forces,kayaking,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Springfield,5584 Britain Lane,3,NO,1,3,YES,Audi,A3,N
+OH,500/1000,MALE,Associate,tech-support,reading,own-child,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,Northbend,7002 Oak Hwy,3,NO,0,1,NO,Suburu,Impreza,N
+OH,100/300,MALE,MD,priv-house-serv,reading,husband,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Columbus,4780 Best Drive,1,NO,0,1,NO,Toyota,Camry,N
+OH,250/500,FEMALE,College,tech-support,dancing,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Northbrook,8995 1st Ave,3,NO,2,3,YES,Nissan,Pathfinder,N
+IL,500/1000,MALE,PhD,exec-managerial,bungie-jumping,own-child,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,Columbus,5586 2nd St,3,NO,2,3,NO,Suburu,Legacy,N
+IN,100/300,FEMALE,MD,adm-clerical,golf,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Northbend,1589 Best Ave,3,NO,1,2,YES,Accura,MDX,N
+IL,500/1000,FEMALE,Masters,other-service,golf,husband,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,Northbrook,1880 Weaver Drive,3,YES,0,2,YES,Nissan,Pathfinder,N
+OH,500/1000,FEMALE,College,other-service,bungie-jumping,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Springfield,7295 Tree Hwy,1,YES,2,0,NO,Suburu,Impreza,N
+IL,250/500,FEMALE,Associate,armed-forces,video-games,other-relative,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,Arlington,8832 Pine Drive,3,NO,0,2,NO,Jeep,Wrangler,N
+IL,100/300,FEMALE,Associate,priv-house-serv,base-jumping,unmarried,Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,Hillsdale,1620 Oak Ave,1,YES,2,1,NO,Toyota,Camry,N
+IL,250/500,FEMALE,Associate,priv-house-serv,polo,other-relative,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Hillsdale,3847 Elm Hwy,1,NO,1,3,YES,Dodge,RAM,Y
+IN,100/300,FEMALE,JD,armed-forces,exercise,husband,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Hillsdale,3177 MLK Ridge,1,NO,1,0,NO,Accura,TL,N
+OH,100/300,FEMALE,JD,protective-serv,skydiving,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Riverwood,3929 Oak Drive,2,NO,0,3,YES,Dodge,RAM,N
+IL,500/1000,FEMALE,College,priv-house-serv,chess,other-relative,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,Springfield,1469 Lincoln Drive,3,NO,1,2,YES,Suburu,Forrestor,Y
+OH,500/1000,MALE,JD,farming-fishing,skydiving,husband,Multi-vehicle Collision,Rear Collision,Major Damage,Police,OH,Arlington,9719 4th Lane,3,YES,1,3,NO,Ford,F150,Y
+IN,100/300,FEMALE,JD,exec-managerial,skydiving,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Riverwood,3196 Cherokee St,1,NO,1,0,NO,Honda,CRV,N
+IN,500/1000,FEMALE,JD,prof-specialty,bungie-jumping,husband,Parked Car,Rear Collision,Minor Damage,None,WV,Northbend,8492 Andromedia Ridge,1,NO,2,0,YES,Jeep,Wrangler,N
+OH,100/300,FEMALE,Associate,machine-op-inspct,chess,wife,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Hillsdale,1353 Washington St,3,YES,0,0,YES,Ford,F150,Y
+IL,250/500,FEMALE,PhD,armed-forces,kayaking,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Hillsdale,6731 Andromedia Hwy,1,NO,0,2,YES,Chevrolet,Malibu,N
+IN,500/1000,FEMALE,JD,sales,reading,husband,Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,Riverwood,5769 Texas Lane,1,YES,1,0,YES,Mercedes,ML350,N
+IL,100/300,MALE,MD,tech-support,base-jumping,unmarried,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Arlington,2849 Pine Drive,1,NO,0,2,NO,Jeep,Wrangler,Y
+IN,100/300,FEMALE,Masters,protective-serv,reading,unmarried,Vehicle Theft,Rear Collision,Trivial Damage,Police,WV,Springfield,2577 Texas Ridge,1,YES,1,2,NO,Saab,93,N
+IN,500/1000,MALE,MD,priv-house-serv,exercise,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,Northbend,3841 Washington Lane,3,NO,2,3,NO,Saab,93,N
+OH,250/500,FEMALE,PhD,handlers-cleaners,sleeping,not-in-family,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Columbus,8125 Texas Ridge,3,YES,1,3,NO,Chevrolet,Silverado,Y
+IL,500/1000,MALE,MD,priv-house-serv,polo,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Other,NC,Arlington,4826 5th St,1,YES,2,1,NO,Mercedes,E400,N
+IN,500/1000,MALE,MD,priv-house-serv,video-games,wife,Single Vehicle Collision,Front Collision,Major Damage,Fire,VA,Northbrook,1578 5th Lane,1,NO,1,1,NO,Dodge,RAM,Y
+OH,250/500,MALE,MD,farming-fishing,skydiving,wife,Single Vehicle Collision,Rear Collision,Major Damage,Fire,VA,Hillsdale,6440 Rock Lane,1,NO,1,3,YES,BMW,X5,Y
+IL,100/300,FEMALE,High School,machine-op-inspct,dancing,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Northbrook,5806 Embaracadero St,1,NO,0,0,NO,BMW,3 Series,N
+OH,500/1000,FEMALE,Associate,exec-managerial,bungie-jumping,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,WV,Riverwood,1472 4th Drive,3,YES,0,3,NO,Audi,A5,Y
+IL,250/500,MALE,JD,transport-moving,paintball,not-in-family,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Hillsdale,5839 Weaver Lane,1,NO,2,2,NO,BMW,M5,N
+IL,250/500,MALE,JD,other-service,paintball,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NC,Columbus,7630 Rock Drive,3,YES,0,0,NO,BMW,3 Series,N
+IL,250/500,FEMALE,High School,craft-repair,exercise,other-relative,Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,Riverwood,7144 Andromedia St,1,NO,1,0,YES,Audi,A3,N
+IN,250/500,MALE,College,armed-forces,exercise,husband,Parked Car,Rear Collision,Minor Damage,None,VA,Arlington,9988 Rock Ridge,1,NO,0,0,NO,Honda,Civic,N
+OH,500/1000,FEMALE,MD,other-service,chess,wife,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbrook,7544 Washington Ave,1,YES,1,2,YES,Accura,TL,N
+IL,100/300,FEMALE,Masters,craft-repair,sleeping,not-in-family,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Hillsdale,7201 Washington Ave,3,NO,2,0,NO,Volkswagen,Jetta,N
+IN,100/300,FEMALE,JD,priv-house-serv,sleeping,other-relative,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,Northbend,8805 Cherokee Drive,1,YES,2,0,NO,Suburu,Legacy,N
+IL,500/1000,FEMALE,MD,exec-managerial,camping,other-relative,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,Arlington,3275 Pine St,2,NO,0,3,NO,Saab,95,N
+IL,500/1000,MALE,Masters,adm-clerical,yachting,husband,Vehicle Theft,Front Collision,Trivial Damage,None,WV,Columbus,7785 Lincoln Lane,1,NO,2,1,NO,Jeep,Wrangler,N
+OH,250/500,MALE,High School,transport-moving,sleeping,husband,Vehicle Theft,Rear Collision,Minor Damage,None,NC,Arlington,4994 Lincoln Drive,1,YES,0,0,NO,Dodge,Neon,N
+IN,100/300,MALE,MD,priv-house-serv,movies,not-in-family,Parked Car,Rear Collision,Minor Damage,None,NY,Springfield,1298 Maple Hwy,1,NO,1,3,NO,Suburu,Impreza,N
+IL,100/300,MALE,High School,armed-forces,board-games,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,Northbend,2644 MLK Drive,3,NO,0,3,NO,Saab,92x,Y
+IN,250/500,MALE,Associate,exec-managerial,board-games,own-child,Parked Car,Rear Collision,Trivial Damage,None,SC,Riverwood,5630 1st Drive,1,NO,0,3,YES,Saab,92x,N
+IL,100/300,FEMALE,JD,exec-managerial,sleeping,own-child,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,6137 MLK St,3,NO,2,0,NO,Jeep,Wrangler,N
+OH,250/500,FEMALE,PhD,sales,basketball,husband,Single Vehicle Collision,Rear Collision,Major Damage,Police,WV,Northbrook,5383 Maple Drive,1,NO,0,1,NO,Chevrolet,Malibu,N
+OH,500/1000,FEMALE,Associate,craft-repair,paintball,own-child,Vehicle Theft,Rear Collision,Minor Damage,None,NC,Arlington,4460 4th Lane,1,YES,1,3,NO,Saab,92x,N
+OH,250/500,MALE,Associate,sales,video-games,husband,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Columbus,8524 Pine Lane,1,YES,0,3,NO,Mercedes,C300,N
+IN,250/500,FEMALE,High School,exec-managerial,sleeping,own-child,Single Vehicle Collision,Side Collision,Total Loss,Police,NY,Northbrook,8456 1st Ave,1,YES,0,0,NO,Nissan,Pathfinder,N
+IL,500/1000,MALE,JD,handlers-cleaners,skydiving,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,Riverwood,3639 Flute Hwy,3,NO,2,1,NO,Honda,Accord,N
+IN,500/1000,MALE,PhD,armed-forces,basketball,wife,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Riverwood,7900 Sky Hwy,1,YES,2,3,NO,Volkswagen,Jetta,N
+OH,500/1000,FEMALE,High School,tech-support,movies,husband,Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,Riverwood,7835 Cherokee Hwy,3,YES,2,1,YES,Saab,95,N
+IN,100/300,MALE,Associate,adm-clerical,paintball,other-relative,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,Northbend,1030 Pine Lane,3,NO,1,2,NO,Chevrolet,Silverado,Y
+OH,100/300,MALE,JD,priv-house-serv,camping,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,Columbus,9278 Francis Ridge,3,NO,2,0,YES,BMW,X5,N
+OH,250/500,FEMALE,High School,priv-house-serv,paintball,husband,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbend,6604 Apache Drive,3,NO,1,2,NO,Saab,92x,N
+OH,250/500,MALE,MD,priv-house-serv,base-jumping,not-in-family,Vehicle Theft,Rear Collision,Minor Damage,Police,WV,Northbrook,2311 4th St,1,YES,1,0,NO,Honda,Civic,N
+IN,500/1000,FEMALE,Masters,transport-moving,skydiving,not-in-family,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,Northbend,9523 Solo Hwy,3,NO,0,2,NO,Jeep,Wrangler,N
+IL,100/300,FEMALE,College,sales,dancing,wife,Single Vehicle Collision,Side Collision,Minor Damage,Police,PA,Springfield,3171 Andromedia Lane,1,NO,1,2,YES,Nissan,Pathfinder,N
+IN,500/1000,MALE,JD,exec-managerial,kayaking,other-relative,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Northbend,2492 Lincoln Lane,2,NO,0,1,YES,Jeep,Wrangler,N
+OH,500/1000,MALE,Masters,exec-managerial,kayaking,not-in-family,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,Northbend,4477 5th Ave,3,YES,2,1,YES,Accura,RSX,Y
+IL,500/1000,MALE,MD,craft-repair,movies,not-in-family,Single Vehicle Collision,Side Collision,Minor Damage,Fire,WV,Springfield,6724 Andromedia St,1,NO,1,1,NO,Honda,CRV,N
+OH,500/1000,FEMALE,JD,transport-moving,cross-fit,own-child,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,Riverwood,7495 Washington Ave,4,YES,0,2,YES,Honda,Accord,N
+OH,250/500,FEMALE,High School,sales,chess,wife,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Hillsdale,4291 Sky Hwy,1,YES,2,0,NO,Mercedes,C300,Y
+OH,100/300,MALE,High School,adm-clerical,golf,husband,Vehicle Theft,Rear Collision,Trivial Damage,None,NY,Hillsdale,5650 Rock Ave,1,NO,1,1,YES,Honda,Civic,N
+OH,250/500,MALE,PhD,tech-support,chess,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Columbus,6888 Elm Ridge,1,NO,1,3,NO,Mercedes,C300,N
+IL,100/300,MALE,College,prof-specialty,exercise,wife,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Northbrook,2352 Sky Drive,3,YES,2,1,NO,Toyota,Corolla,N
+IL,250/500,MALE,High School,protective-serv,chess,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Hillsdale,5280 Pine Ave,3,YES,1,0,NO,Dodge,RAM,Y
+OH,100/300,MALE,JD,transport-moving,base-jumping,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,Northbrook,6638 Tree Drive,1,NO,1,0,YES,Accura,MDX,N
+IL,250/500,FEMALE,College,other-service,camping,wife,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Northbrook,5678 Lincoln Drive,3,NO,0,3,NO,BMW,M5,N
+IL,500/1000,MALE,MD,priv-house-serv,polo,wife,Vehicle Theft,Rear Collision,Minor Damage,Police,WV,Columbus,4496 Pine Lane,1,NO,0,3,NO,Nissan,Ultima,N
+OH,250/500,FEMALE,PhD,other-service,hiking,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Other,SC,Hillsdale,8845 5th Ave,1,YES,1,0,YES,Accura,RSX,N
+IN,500/1000,FEMALE,MD,farming-fishing,skydiving,wife,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Riverwood,9317 Apache Ave,3,NO,0,1,NO,Honda,Accord,N
+IL,250/500,FEMALE,Associate,adm-clerical,video-games,husband,Vehicle Theft,Rear Collision,Minor Damage,Police,VA,Arlington,8638 3rd Ave,1,NO,2,3,NO,Jeep,Wrangler,N
+IN,250/500,FEMALE,Masters,transport-moving,video-games,own-child,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,3061 Francis Hwy,1,NO,0,3,YES,BMW,X6,Y
+IL,250/500,MALE,Masters,prof-specialty,bungie-jumping,unmarried,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Northbrook,1173 Andromedia Ave,1,YES,1,3,YES,Dodge,RAM,Y
+IN,500/1000,MALE,Associate,priv-house-serv,polo,other-relative,Vehicle Theft,Front Collision,Trivial Damage,Police,VA,Springfield,6068 2nd St,1,YES,1,3,NO,Audi,A5,N
+IN,100/300,FEMALE,JD,sales,yachting,not-in-family,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Arlington,7937 Weaver Ridge,1,YES,0,0,NO,Toyota,Camry,Y
+IN,100/300,FEMALE,JD,adm-clerical,sleeping,unmarried,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,Springfield,2823 Weaver Lane,4,YES,0,2,NO,Saab,93,Y
+OH,500/1000,FEMALE,College,sales,sleeping,husband,Multi-vehicle Collision,Side Collision,Total Loss,Fire,PA,Columbus,1809 Sky St,3,NO,1,1,NO,Nissan,Ultima,N
+IL,250/500,MALE,JD,craft-repair,polo,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NC,Springfield,9352 Washington Ave,3,NO,2,1,YES,Honda,Civic,N
+IL,500/1000,FEMALE,Masters,machine-op-inspct,reading,husband,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Columbus,2697 Oak Drive,3,YES,1,3,NO,Dodge,Neon,N
+OH,100/300,FEMALE,College,armed-forces,camping,own-child,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,Riverwood,1110 4th Drive,3,NO,1,3,NO,Toyota,Highlander,N
+OH,100/300,FEMALE,JD,priv-house-serv,cross-fit,husband,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Hillsdale,7535 5th Lane,4,NO,2,3,YES,Toyota,Highlander,Y
+OH,250/500,MALE,High School,protective-serv,polo,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Northbrook,9043 Maple Hwy,1,NO,1,0,NO,Honda,CRV,N
+IN,100/300,FEMALE,High School,protective-serv,hiking,wife,Single Vehicle Collision,Front Collision,Total Loss,Police,VA,Hillsdale,3777 Maple Ave,1,NO,2,2,YES,Jeep,Grand Cherokee,N
+IN,250/500,FEMALE,PhD,prof-specialty,exercise,own-child,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Northbrook,5608 Solo St,1,NO,0,0,NO,Toyota,Corolla,Y
+IN,250/500,FEMALE,MD,other-service,bungie-jumping,unmarried,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Arlington,6981 Weaver St,3,NO,1,0,NO,Dodge,RAM,Y
+OH,100/300,FEMALE,Associate,craft-repair,movies,own-child,Parked Car,Rear Collision,Minor Damage,None,NY,Springfield,4369 Maple Lane,1,NO,1,1,YES,Suburu,Impreza,N
+IL,500/1000,FEMALE,PhD,machine-op-inspct,exercise,husband,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,Columbus,6931 Elm St,3,NO,0,0,NO,Volkswagen,Passat,N
+IN,250/500,FEMALE,PhD,other-service,base-jumping,own-child,Parked Car,Rear Collision,Minor Damage,None,SC,Arlington,7583 Washington Ave,1,NO,1,3,NO,Volkswagen,Passat,N
+IN,250/500,FEMALE,Associate,armed-forces,bungie-jumping,own-child,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NC,Arlington,7552 3rd St,3,YES,0,0,NO,Audi,A3,N
+IL,500/1000,MALE,Associate,prof-specialty,movies,own-child,Single Vehicle Collision,Side Collision,Total Loss,Police,SC,Northbrook,1654 Pine St,1,YES,1,3,YES,Jeep,Grand Cherokee,N
+IL,250/500,MALE,High School,handlers-cleaners,yachting,own-child,Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,Springfield,6058 Andromedia Hwy,3,NO,0,2,NO,Suburu,Forrestor,N
+IL,100/300,FEMALE,JD,other-service,hiking,wife,Single Vehicle Collision,Side Collision,Major Damage,Fire,WV,Hillsdale,6536 MLK Hwy,1,NO,2,0,NO,Audi,A5,Y
+IL,250/500,FEMALE,Masters,sales,board-games,own-child,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Columbus,8198 Embaracadero Lane,1,NO,0,3,NO,Suburu,Legacy,N
+OH,250/500,MALE,Masters,sales,exercise,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,Hillsdale,3447 Solo Ave,1,NO,1,1,NO,Suburu,Forrestor,N
+OH,100/300,FEMALE,PhD,tech-support,bungie-jumping,wife,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,Arlington,1806 Weaver Ridge,3,NO,2,3,YES,Ford,Escape,N
+IL,500/1000,FEMALE,College,transport-moving,video-games,unmarried,Parked Car,Rear Collision,Minor Damage,None,SC,Arlington,7930 Texas Ave,1,NO,1,0,NO,Toyota,Camry,N
+IN,500/1000,FEMALE,Masters,protective-serv,reading,not-in-family,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,Riverwood,7082 Oak Ridge,1,NO,0,3,NO,Nissan,Maxima,N
+IN,500/1000,FEMALE,JD,handlers-cleaners,sleeping,own-child,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,Northbend,6357 Texas Lane,3,NO,0,2,NO,Audi,A3,N
+IN,250/500,MALE,High School,protective-serv,reading,not-in-family,Vehicle Theft,Front Collision,Minor Damage,None,WV,Hillsdale,9322 Rock Hwy,1,NO,1,0,YES,Volkswagen,Jetta,N
+IN,250/500,FEMALE,JD,craft-repair,yachting,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Northbrook,6684 Solo Lane,1,YES,0,3,NO,Honda,CRV,N
+OH,250/500,MALE,JD,craft-repair,movies,unmarried,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Riverwood,4885 Oak Lane,1,YES,0,0,NO,Nissan,Maxima,N
+IN,500/1000,MALE,Masters,machine-op-inspct,golf,not-in-family,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Springfield,7846 Andromedia Drive,3,YES,0,3,YES,Toyota,Camry,N
+IL,100/300,FEMALE,High School,priv-house-serv,skydiving,other-relative,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,Columbus,3915 Embaracadero St,1,NO,2,1,NO,Chevrolet,Silverado,N
+OH,100/300,MALE,Masters,priv-house-serv,sleeping,wife,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NC,Hillsdale,4242 Rock Lane,3,NO,1,3,NO,Dodge,RAM,N
+OH,500/1000,FEMALE,High School,protective-serv,movies,husband,Vehicle Theft,Rear Collision,Minor Damage,Police,VA,Hillsdale,7405 Oak St,1,NO,0,0,YES,Saab,92x,N
+IL,100/300,FEMALE,JD,protective-serv,board-games,husband,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Northbend,9633 4th St,3,NO,1,2,YES,Toyota,Camry,N
+IN,250/500,FEMALE,Associate,adm-clerical,bungie-jumping,husband,Vehicle Theft,Rear Collision,Trivial Damage,Police,VA,Columbus,3492 Britain St,1,NO,2,0,NO,Accura,MDX,N
+OH,500/1000,FEMALE,PhD,transport-moving,board-games,unmarried,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,Arlington,7973 4th St,1,NO,0,2,NO,Chevrolet,Silverado,N
+OH,100/300,FEMALE,MD,protective-serv,skydiving,other-relative,Vehicle Theft,Front Collision,Minor Damage,Police,WV,Riverwood,3952 Andromedia Lane,1,NO,0,0,YES,BMW,3 Series,N
+IN,500/1000,FEMALE,High School,craft-repair,cross-fit,own-child,Vehicle Theft,Rear Collision,Minor Damage,Police,WV,Springfield,6702 Andromedia St,1,NO,2,1,YES,Volkswagen,Jetta,Y
+IL,100/300,MALE,Masters,handlers-cleaners,camping,other-relative,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,Arlington,5455 Oak Hwy,1,NO,0,0,NO,BMW,3 Series,N
+OH,250/500,FEMALE,MD,sales,kayaking,own-child,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NC,Columbus,2253 Maple Ave,3,YES,0,0,NO,Jeep,Grand Cherokee,N
+OH,100/300,FEMALE,Associate,protective-serv,base-jumping,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Police,NC,Arlington,7897 Lincoln St,1,YES,1,2,NO,Nissan,Ultima,Y
+OH,500/1000,FEMALE,MD,tech-support,paintball,other-relative,Multi-vehicle Collision,Side Collision,Major Damage,Police,NY,Northbend,8811 Maple Hwy,3,NO,2,2,YES,Accura,MDX,N
+OH,250/500,MALE,High School,adm-clerical,movies,unmarried,Vehicle Theft,Rear Collision,Trivial Damage,Police,SC,Northbend,8167 Apache Ave,1,NO,2,3,NO,Accura,MDX,N
+OH,250/500,MALE,MD,tech-support,movies,husband,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,Northbrook,5475 Rock Lane,1,YES,2,0,YES,Ford,Escape,N
+OH,500/1000,FEMALE,Associate,priv-house-serv,paintball,not-in-family,Single Vehicle Collision,Front Collision,Total Loss,Fire,VA,Northbend,8215 Flute Drive,1,NO,2,1,NO,Mercedes,C300,N
+OH,250/500,MALE,College,other-service,exercise,wife,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,Northbend,1320 Flute Lane,1,NO,1,1,YES,Jeep,Grand Cherokee,Y
+IL,500/1000,MALE,PhD,tech-support,reading,own-child,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Columbus,1229 5th Ave,1,YES,2,3,NO,Suburu,Impreza,Y
+IN,100/300,FEMALE,JD,transport-moving,video-games,wife,Multi-vehicle Collision,Side Collision,Major Damage,Police,SC,Riverwood,3884 Pine Lane,3,NO,2,1,NO,Chevrolet,Tahoe,Y
+IN,100/300,FEMALE,JD,protective-serv,polo,own-child,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,Northbend,7108 Tree St,2,YES,0,2,NO,Ford,Escape,N
+OH,500/1000,FEMALE,Associate,craft-repair,board-games,unmarried,Multi-vehicle Collision,Side Collision,Major Damage,Fire,WV,Arlington,8014 Embaracadero Drive,3,NO,2,2,NO,Accura,RSX,N
+IN,100/300,MALE,Associate,adm-clerical,board-games,other-relative,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,WV,Springfield,4937 Flute Drive,3,NO,1,1,NO,Suburu,Impreza,Y
+IN,250/500,FEMALE,High School,craft-repair,golf,unmarried,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,Columbus,2889 Francis St,1,NO,2,3,YES,Dodge,Neon,N
+IN,500/1000,FEMALE,Masters,farming-fishing,base-jumping,not-in-family,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,Columbus,7504 Flute Drive,1,NO,0,2,YES,Saab,95,N
+IL,500/1000,MALE,PhD,handlers-cleaners,camping,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,OH,Northbend,7570 Cherokee Drive,1,YES,0,2,YES,Suburu,Forrestor,N
+OH,250/500,MALE,College,handlers-cleaners,bungie-jumping,unmarried,Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,Northbend,4710 Lincoln Hwy,3,NO,1,2,NO,Dodge,Neon,N
+IN,500/1000,MALE,High School,exec-managerial,cross-fit,other-relative,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Arlington,7511 1st Ave,3,NO,0,3,YES,BMW,M5,Y
+IL,250/500,FEMALE,JD,adm-clerical,hiking,unmarried,Parked Car,Rear Collision,Trivial Damage,Police,SC,Arlington,7042 Maple Ridge,1,NO,2,1,NO,Suburu,Legacy,N
+IN,250/500,MALE,MD,other-service,cross-fit,husband,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Springfield,4475 Lincoln Ridge,1,YES,2,1,NO,Toyota,Corolla,N
+OH,100/300,MALE,High School,other-service,base-jumping,wife,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,Columbus,9439 MLK St,1,NO,0,2,NO,Jeep,Wrangler,N
+IN,100/300,MALE,College,handlers-cleaners,kayaking,not-in-family,Single Vehicle Collision,Rear Collision,Minor Damage,Other,WV,Riverwood,8269 Sky Hwy,1,YES,2,3,NO,Toyota,Highlander,Y
+IL,500/1000,MALE,JD,craft-repair,yachting,other-relative,Single Vehicle Collision,Side Collision,Major Damage,Other,NC,Hillsdale,5663 Oak Lane,1,NO,0,3,NO,Chevrolet,Tahoe,Y
+IN,100/300,FEMALE,High School,armed-forces,dancing,wife,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Columbus,4633 5th Lane,1,YES,1,1,NO,Honda,Civic,N
+IN,250/500,FEMALE,High School,exec-managerial,movies,husband,Multi-vehicle Collision,Rear Collision,Total Loss,Police,SC,Arlington,9682 Cherokee Ridge,3,YES,1,2,NO,Chevrolet,Malibu,N
+IL,100/300,FEMALE,MD,prof-specialty,movies,unmarried,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Northbrook,4755 1st St,1,NO,2,2,YES,Jeep,Grand Cherokee,N
+OH,100/300,MALE,MD,other-service,basketball,other-relative,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,Riverwood,5312 Francis Ridge,1,NO,0,1,NO,Accura,TL,N
+IN,100/300,MALE,MD,exec-managerial,camping,husband,Multi-vehicle Collision,Front Collision,Major Damage,Fire,OH,Springfield,1705 Weaver St,3,YES,1,2,YES,Nissan,Pathfinder,N
+OH,250/500,MALE,MD,exec-managerial,camping,husband,Multi-vehicle Collision,Side Collision,Total Loss,Other,OH,Hillsdale,1643 Washington Hwy,3,NO,0,1,NO,Volkswagen,Passat,N
+IN,500/1000,MALE,High School,sales,bungie-jumping,own-child,Parked Car,Front Collision,Minor Damage,None,SC,Northbend,6516 Solo Drive,1,NO,1,2,YES,Honda,Civic,N
+OH,500/1000,FEMALE,Masters,craft-repair,paintball,unmarried,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,Northbrook,6045 Andromedia St,1,YES,0,1,NO,Honda,Accord,N
+IL,100/300,FEMALE,PhD,prof-specialty,sleeping,wife,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbend,3092 Texas Drive,1,YES,2,3,NO,Volkswagen,Passat,N
+OH,250/500,FEMALE,Masters,armed-forces,bungie-jumping,other-relative,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,Arlington,7629 5th St,3,NO,2,3,YES,Suburu,Impreza,N
+IL,500/1000,MALE,Associate,handlers-cleaners,base-jumping,wife,Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,Arlington,6128 Elm Lane,1,NO,0,1,YES,Audi,A5,N
+OH,250/500,FEMALE,Associate,sales,kayaking,husband,Parked Car,Rear Collision,Minor Damage,Police,WV,Columbus,1416 Cherokee Ridge,1,NO,0,3,NO,Mercedes,E400,N
